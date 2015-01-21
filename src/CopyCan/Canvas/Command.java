@@ -5,6 +5,7 @@ import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import java.awt.*;
+import java.awt.Frame;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -30,7 +31,7 @@ public class Command
         public void actionPerformed(ActionEvent actionEvent)
         {
             data.col = JColorChooser.showDialog(null, "Select Color", data.col);
-        }
+          }
     }
 
     class ColorCommandRed implements ActionListener
@@ -92,13 +93,13 @@ public class Command
     }
 
 
-    class SliderCommand implements ChangeListener
+     class SliderCommand   implements ChangeListener
     {
         @Override
         public void stateChanged(ChangeEvent changeEvent)
         {
-            //  data.lw = wp.slider.getValue();
-            //    wp.labelW.setText(data.lw + " px");
+          //  data.lw = wp.slider.getValue();
+        //    wp.labelW.setText(data.lw + " px");
         }
     }
 }

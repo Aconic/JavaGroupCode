@@ -26,5 +26,7 @@ public class Toolbar extends JPanel
 
         toolBar.add(btnLineWeight_1);
         toolBar.add(btnLineWeight_3);
+
+
     }
 }
