@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcFunc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcFuncTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Random/RandomMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task1Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1a.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1b.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task2Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task3Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task3Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task3Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task3a.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task3h.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task4Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task4Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task4Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task5Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task5Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task5Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task6Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task6Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task7a.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task7b.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Random/TaskAll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/TaskSortGolovach.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcFuncTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/DataSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Frame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Group.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson_code.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Menus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Random/RandomMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1a.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1b.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task3Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task3Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task3Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task3a.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task3h.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task4Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task4Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task4Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task5Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task5Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task5Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task6Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task6Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task7a.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task7b.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Random/TaskAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/TaskSortGolovach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_182.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-10-24).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-10-31).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-11-05).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace (Спірна копія користувача 1102-01 2014-11-10).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Спірна копія користувача 1102-01 2014-11-10).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace.xml" />
+    </list>
+    <ignored path="JavaGroupTask.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Javarush" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1411025082522" ignored="false" />
+    <file path="/Home.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1411112124999" ignored="false" />
+    <file path="/JavaGroup.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413395701640" ignored="false" />
+    <file path="/HelloWorld.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413395737906" ignored="false" />
+    <file path="/*.regexp" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413397859765" ignored="false" />
+    <file path="/Task.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413399827625" ignored="false" />
+    <file path="/Task2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417364207609" ignored="false" />
+    <file path="/Task1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418574082671" ignored="false" />
+    <file path="/fragment.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421613732953" ignored="false" />
+    <file path="/Task4.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140867515" ignored="false" />
+    <file path="/Task3.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416747819921" ignored="false" />
+    <file path="/Task5.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414942078031" ignored="false" />
+    <file path="/a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417635428078" ignored="false" />
+    <file path="/sample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413734562031" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421835544557" ignored="false" />
+    <file path="/Task3Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140831921" ignored="false" />
+    <file path="/CombinationLockTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349267046" ignored="false" />
+    <file path="/CombinationLock.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349998046" ignored="false" />
+    <file path="/Task1Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418568162453" ignored="false" />
+    <file path="/Task2Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140731734" ignored="false" />
+    <file path="/Task4Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140885500" ignored="false" />
+    <file path="/Task5Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415821789906" ignored="false" />
+    <file path="/Task6.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415216580156" ignored="false" />
+    <file path="/Task6Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415821870125" ignored="false" />
+    <file path="/Task7.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415216822843" ignored="false" />
+    <file path="/NumToString.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415282390729" ignored="false" />
+    <file path="/Task1a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415538222546" ignored="false" />
+    <file path="/Task1b.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415540247359" ignored="false" />
+    <file path="/OddPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415885118789" ignored="false" />
+    <file path="$PROJECT_DIR$/HomeWork/src/CalcApp/Calc.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415563181234" ignored="false" />
+    <file path="/Calc.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415563179468" ignored="false" />
+    <file path="/CalcMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415563351437" ignored="false" />
+    <file path="/CalcFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415569489375" ignored="false" />
+    <file path="/CalcPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415811173375" ignored="false" />
+    <file path="/CalcFunc.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415632956012" ignored="false" />
+    <file path="/CalcFuncTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415633610165" ignored="false" />
+    <file path="/Task3a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1415798701264" ignored="false" />
+    <file path="/Task8.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140970125" ignored="false" />
+    <file path="$PROJECT_DIR$/HomeWork/src/Random/Task2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416313310566" ignored="false" />
+    <file path="$PROJECT_DIR$/HomeWork/src/Random/main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416312726001" ignored="false" />
+    <file path="/main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416313329263" ignored="false" />
+    <file path="$PROJECT_DIR$/HomeWork/src/Random/Task1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416313206744" ignored="false" />
+    <file path="/RandomMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416313103878" ignored="false" />
+    <file path="$PROJECT_DIR$/HomeWork/src/Random/Task3.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416313881449" ignored="false" />
+    <file path="$PROJECT_DIR$/HomeWork/src/TStrings/Task3.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416747861718" ignored="false" />
+    <file path="/AList0.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417178753193" ignored="false" />
+    <file path="/AListMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417255604468" ignored="false" />
+    <file path="/AList0Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416992681006" ignored="false" />
+    <file path="/Beta.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416925971295" ignored="false" />
+    <file path="$PROJECT_DIR$/Beta/src/Beta.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416926404658" ignored="false" />
+    <file path="/AList1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418123983746" ignored="false" />
+    <file path="/AList1Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417025843859" ignored="false" />
+    <file path="/ExListTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418835617843" ignored="false" />
+    <file path="/ExList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417181457384" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417286490500" ignored="false" />
+    <file path="/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757561101" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417286637953" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home04/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287164171" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home07/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287536046" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home06/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287716906" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417288102656" ignored="false" />
+    <file path="/PersonMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419510355769" ignored="false" />
+    <file path="/Person.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417365705187" ignored="false" />
+    <file path="/PersonMainTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417530643292" ignored="false" />
+    <file path="/Task9.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417615182237" ignored="false" />
+    <file path="/mainPersonDB.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418041221256" ignored="false" />
+    <file path="/dummy.sql" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418040562676" ignored="false" />
+    <file path="/a.sql" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418040565958" ignored="false" />
+    <file path="/mainPersonDB2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418041284225" ignored="false" />
+    <file path="/LList1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419163376203" ignored="false" />
+    <file path="/AList2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418545275078" ignored="false" />
+    <file path="/Recursion.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418738137595" ignored="false" />
+    <file path="/Sort.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418742661421" ignored="false" />
+    <file path="/LListMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418933344515" ignored="false" />
+    <file path="/FileInput.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419169852187" ignored="false" />
+    <file path="/FileDir.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419174150625" ignored="false" />
+    <file path="/Tree.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419174994984" ignored="false" />
+    <file path="/SimpleTree.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419175365078" ignored="false" />
+    <file path="/FileBrowser.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419763167343" ignored="false" />
+    <file path="/TreePanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419435305742" ignored="false" />
+    <file path="/TreeFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419342745963" ignored="false" />
+    <file path="/TreeMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419191277281" ignored="false" />
+    <file path="/TreeExample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419283471906" ignored="false" />
+    <file path="/PersonFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420820105718" ignored="false" />
+    <file path="/PersonPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420878442906" ignored="false" />
+    <file path="$PROJECT_DIR$/src/Lesson20/ButtonAction.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419442336562" ignored="false" />
+    <file path="/Tt.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419451006515" ignored="false" />
+    <file path="/DbPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419511387508" ignored="false" />
+    <file path="$PROJECT_DIR$/src/Lesson20/mainPersonDB2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419506775890" ignored="false" />
+    <file path="/PersonFunctions.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419583136358" ignored="false" />
+    <file path="/Tet.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419607843181" ignored="false" />
+    <file path="/Testframe.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419769323156" ignored="false" />
+    <file path="/TestFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419770038234" ignored="false" />
+    <file path="/AppMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420315382421" ignored="false" />
+    <file path="/AppFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421592472375" ignored="false" />
+    <file path="/AppPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420374154468" ignored="false" />
+    <file path="/TestTable.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420374086265" ignored="false" />
+    <file path="/TableMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420741511140" ignored="false" />
+    <file path="/TableFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420742054515" ignored="false" />
+    <file path="/TablePanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420742209906" ignored="false" />
+    <file path="/MyTableModel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420385910375" ignored="false" />
+    <file path="/BtnPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421254949671" ignored="false" />
+    <file path="/PaintPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421671432969" ignored="false" />
+    <file path="/CM.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421323986029" ignored="false" />
+    <file path="/Menus.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614699859" ignored="false" />
+    <file path="/MenuTop.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421592974312" ignored="false" />
+    <file path="/Del.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421333284616" ignored="false" />
+    <file path="/Main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421438124484" ignored="false" />
+    <file path="$PROJECT_DIR$/src/Canvas/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421436363781" ignored="false" />
+    <file path="/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421525516765" ignored="false" />
+    <file path="/DataSet.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421593664921" ignored="false" />
+    <file path="/ColorPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421699037546" ignored="false" />
+    <file path="/WidthPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421699618734" ignored="false" />
+    <file path="/PCommand.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614479687" ignored="false" />
+    <file path="/PaintFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614462046" ignored="false" />
+    <file path="/PWidthPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614542828" ignored="false" />
+    <file path="/Command.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421696757671" ignored="false" />
+    <file path="/Frame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421698579421" ignored="false" />
+    <file path="/FSets.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421670773620" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home05/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421673974966" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421674447598" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421675524511" ignored="false" />
+    <file path="/Cat.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421675716776" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Cat.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421675725377" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421676604368" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421677698359" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421677941598" ignored="false" />
+    <file path="/Toolbar.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421702131218" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421740869003" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754227616" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754576561" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754778452" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/home07/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421756663039" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/home01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421756854399" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757241096" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757780336" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel url="file://$PROJECT_DIR$/src/Lesson20" />
+    <splitter proportion="0.072961375" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lesson_code$PersonMain.coverage" NAME="PersonMain Coverage Results" MODIFIED="1419514406182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson20.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lesson_code$AListMain.coverage" NAME="AListMain Coverage Results" MODIFIED="1417184061881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson12.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lesson_code$ExListTest.coverage" NAME="ExListTest Coverage Results" MODIFIED="1417209790734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson12.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaGroupTask" />
+    <favorites_list name="Group" />
+    <favorites_list name="Lesson_code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="36" selection-start="297" selection-end="297" vertical-scroll-proportion="0.49196142">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/DataSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Command.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/ColorPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WidthPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Toolbar.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaintPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menus.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Menus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Menus.java" />
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Command.java" />
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/PaintPanel.java" />
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/ColorPanel.java" />
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/WidthPanel.java" />
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Toolbar.java" />
+        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Frame.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Main.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Frame.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Menus.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/DataSet.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Command.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metrics</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Method MetricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metrics</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Group" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Canvas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.30166668" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.9" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lesson18" />
+      <recent name="Test" />
+      <recent name="Lesson12" />
+      <recent name="Lesson7" />
+      <recent name="Lesson6" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DbApp" />
+      <recent name="Lesson22" />
+      <recent name="Lesson21" />
+      <recent name="Lesson20" />
+      <recent name="Lesson17" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\CopyCan" />
+      <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\Canvas" />
+      <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\DbApp" />
+      <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\Lesson21" />
+      <recent name="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Lesson20" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CopyCan.Canvas" />
+      <recent name="Lesson22" />
+      <recent name="Lesson21" />
+      <recent name="Lesson20" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Delete" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="CascadedMenus" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="CanvasBeta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Canvas.CascadedMenus" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Del" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DEL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DEL.Del" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProgramMenu" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DEL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DEL.ProgramMenu" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainDraw" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Delete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Delete.MainDraw" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Canvas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Canvas.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.CascadedMenus" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Del" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ProgramMenu" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainDraw" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainDraw" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainDraw" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" name="Default" comment="" />
+      <created>1411024813949</created>
+      <updated>1411024813949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32441473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.04943274" sideWeight="0.7198068" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7198068" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1884058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.49839914" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3188406" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18683083" sideWeight="0.22222222" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19529983" sideWeight="0.7198068" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16755603" sideWeight="0.72240806" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27759197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.71497583" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DbApp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="30" selection-end="30" vertical-scroll-proportion="0.08225807" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Menus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/ColorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson21/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.3279743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="297" selection-end="297" vertical-scroll-proportion="0.49196142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lesson_code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>h2-1.4.182</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
