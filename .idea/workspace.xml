@@ -2,181 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcFunc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcFuncTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/CalcApp/CalcPanel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Random/RandomMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task1Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task1Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task1Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task1b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task2Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task2Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task2Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task2Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task3Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task3Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Functions/Task3Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task3a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/TStrings/Task3h.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task4Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task4Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task4Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task5Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Conditions/Task5Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task5Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task6Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task6Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task7a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Loops/Task7b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/Task9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Random/TaskAll.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Arrays/TaskSortGolovach.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcFunc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcFuncTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/CalcApp/CalcPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Command.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/DataSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Frame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Group.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson_code.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Menus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Random/RandomMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1b.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task3Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task3Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Functions/Task3Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task3a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/TStrings/Task3h.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task4Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task4Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task4Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task5Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task5Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task5Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task6Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task6Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task7a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Loops/Task7b.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/Task9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Random/TaskAll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/src/Arrays/TaskSortGolovach.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_182.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-10-24).xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-10-31).xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-11-05).xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace (Спірна копія користувача 1102-01 2014-11-10).xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace (Спірна копія користувача 1102-01 2014-11-10).xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Canvas\Menus.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Command.java" afterPath="$PROJECT_DIR$/src/Canvas/Command.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Frame.java" afterPath="$PROJECT_DIR$/src/Canvas/Frame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Toolbar.java" afterPath="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
     </list>
     <ignored path="JavaGroupTask.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -194,7 +25,7 @@
     <file path="/Task5.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414942078031" ignored="false" />
     <file path="/a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417635428078" ignored="false" />
     <file path="/sample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413734562031" ignored="false" />
-    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421835544557" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421851972626" ignored="false" />
     <file path="/Task3Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140831921" ignored="false" />
     <file path="/CombinationLockTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349267046" ignored="false" />
     <file path="/CombinationLock.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349998046" ignored="false" />
@@ -282,7 +113,7 @@
     <file path="/TablePanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420742209906" ignored="false" />
     <file path="/MyTableModel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420385910375" ignored="false" />
     <file path="/BtnPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421254949671" ignored="false" />
-    <file path="/PaintPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421671432969" ignored="false" />
+    <file path="/PaintPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421851789071" ignored="false" />
     <file path="/CM.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421323986029" ignored="false" />
     <file path="/Menus.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614699859" ignored="false" />
     <file path="/MenuTop.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421592974312" ignored="false" />
@@ -292,12 +123,12 @@
     <file path="/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421525516765" ignored="false" />
     <file path="/DataSet.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421593664921" ignored="false" />
     <file path="/ColorPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421699037546" ignored="false" />
-    <file path="/WidthPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421699618734" ignored="false" />
+    <file path="/WidthPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421847693390" ignored="false" />
     <file path="/PCommand.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614479687" ignored="false" />
     <file path="/PaintFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614462046" ignored="false" />
     <file path="/PWidthPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614542828" ignored="false" />
-    <file path="/Command.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421696757671" ignored="false" />
-    <file path="/Frame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421698579421" ignored="false" />
+    <file path="/Command.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421846492602" ignored="false" />
+    <file path="/Frame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421847056109" ignored="false" />
     <file path="/FSets.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421670773620" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home05/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421673974966" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421674447598" ignored="false" />
@@ -307,7 +138,7 @@
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421676604368" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421677698359" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421677941598" ignored="false" />
-    <file path="/Toolbar.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421702131218" ignored="false" />
+    <file path="/Toolbar.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421848027574" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421740869003" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754227616" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754576561" ignored="false" />
@@ -316,6 +147,7 @@
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/home01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421756854399" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757241096" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757780336" ignored="false" />
+    <file path="/MenuContext.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421851534188" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,37 +231,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="36" selection-start="297" selection-end="297" vertical-scroll-proportion="0.49196142">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Frame.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/DataSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Command.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -444,19 +249,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WidthPanel.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
+      <file leaf-file-name="Frame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toolbar.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+            <state line="39" column="6" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -465,16 +261,19 @@
       <file leaf-file-name="PaintPanel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="26" column="8" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#mouseReleased#0;class#PaintPanel#0" expanded="false" />
+                <element signature="method#mouseEntered#0;class#PaintPanel#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Menus.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/Menus.java">
+      <file leaf-file-name="MenuContext.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/MenuContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+            <state line="14" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.37138262">
               <folding />
             </state>
           </provider>
@@ -499,22 +298,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Menus.java" />
-        <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Command.java" />
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/PaintPanel.java" />
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/ColorPanel.java" />
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/WidthPanel.java" />
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Toolbar.java" />
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Frame.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Main.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/Frame.java" />
         <option value="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Menus.java" />
         <option value="$PROJECT_DIR$/src/Canvas/DataSet.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Command.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/MenuContext.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/MenuTop.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Frame.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
       </list>
     </option>
   </component>
@@ -1021,7 +820,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1042,7 +841,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19529983" sideWeight="0.7198068" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16755603" sideWeight="0.72240806" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16755603" sideWeight="0.72240806" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27759197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1088,7 +887,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1115,30 +914,9 @@
         <state line="3" column="13" selection-start="30" selection-end="30" vertical-scroll-proportion="0.08225807" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson21/AppMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Menus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.3279743">
           <folding />
         </state>
       </provider>
@@ -1150,16 +928,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson21/AppMain.java">
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.3279743">
-          <folding />
+        <state line="34" column="67" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.84726685">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
+    <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+        <state line="42" column="48" selection-start="1414" selection-end="1414" vertical-scroll-proportion="-0.22990353">
+          <folding>
+            <element signature="method#mousePressed#0;class#WidthPanel#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#WidthPanel#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#WidthPanel#0" expanded="false" />
+            <element signature="method#mouseDragged#0;class#WidthPanel#0" expanded="false" />
+            <element signature="method#mouseMoved#0;class#WidthPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="26" selection-start="2274" selection-end="2274" vertical-scroll-proportion="2.5691319">
           <folding />
         </state>
       </provider>
@@ -1171,16 +964,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+        <state line="18" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Canvas/MenuTop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="36" selection-start="297" selection-end="297" vertical-scroll-proportion="0.49196142">
+        <state line="3" column="75" selection-start="39" selection-end="39" vertical-scroll-proportion="0.08199357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="6" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="8" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#mouseReleased#0;class#PaintPanel#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#PaintPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/MenuContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.37138262">
           <folding />
         </state>
       </provider>

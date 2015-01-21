@@ -6,7 +6,7 @@ import javax.swing.event.ChangeListener;
 import java.awt.*;
 import java.awt.event.*;
 
-public class WidthPanel extends JPanel implements MouseListener, MouseMotionListener, MouseWheelListener
+public class WidthPanel extends JPanel implements MouseListener, MouseMotionListener, MouseWheelListener, ChangeListener
 {
     JButton btnWeight1 = null;
     JButton btnWeight5 = null;
@@ -61,8 +61,8 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
 
         slider.addChangeListener(cmd.sldCmd);
 
-
     }
+
     @Override
     public void mouseWheelMoved(MouseWheelEvent e)
     {
@@ -79,6 +79,14 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
         slider.setValue(data.lw);
         labelW.setText(data.lw + " px");
     }
+
+    @Override
+    public void stateChanged(ChangeEvent changeEvent)
+    {
+        data.lw = slider.getValue();
+        labelW.setText(data.lw + " px");
+    }
+
 
     @Override
     public void mouseClicked(MouseEvent mouseEvent)
@@ -117,7 +125,6 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
     {
         //To change body of implemented methods use File | Settings | File Templates.
     }
-
 
 }
 

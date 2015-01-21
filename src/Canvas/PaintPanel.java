@@ -11,17 +11,25 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
     Color col = Color.BLACK;
     int x = 0;
     int y = 0;
-    JPopupMenu popupMenu = null;
-    Menus mnu = null;
-    Command command = null;
-    DataSet data = null;
 
-    PaintPanel()
+    DataSet data = null;
+    JPopupMenu popupMenu = null;
+    MenuContext menuContext = null;
+    Command cmd = null;
+
+    PaintPanel(Command cmd)
     {
+        this.cmd= cmd;
         setLayout(null);
         setBackground(Color.darkGray);
         addMouseListener(this);
         addMouseMotionListener(this);
+        menuContext = new MenuContext(cmd);
+        popupMenu = new JPopupMenu();
+
+        popupMenu.add(menuContext.lwMenu);
+        popupMenu.add(menuContext.colMenu);
+        setComponentPopupMenu(popupMenu);
     }
 
     @Override

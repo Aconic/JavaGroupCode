@@ -3,30 +3,52 @@ package Canvas;
 import javax.swing.*;
 import java.awt.*;
 
-public class Toolbar extends JPanel
+public class Toolbar extends JToolBar
 {
-    JToolBar toolBar = null;
+
     JButton btnLineWeight_1 = null;
-    JButton btnLineWeight_3 = null;
+    JButton btnLineWeight_5 = null;
+    JButton btnLineWeight_7 = null;
+    JButton btnColorRed = null;
+    JButton btnColorGreen = null;
+    JButton btnColorBlue = null;
+    JTextField fieldRed = null;
 
     public Toolbar(Command cmd)
     {
         setLayout(null);
-        setBackground(Color.RED.darker());
-
-        toolBar = new JToolBar("TOOLPOOL");
-        toolBar.setFloatable(true);
-        toolBar.setRollover(true);
-
         btnLineWeight_1 = new JButton("W=1");
-        btnLineWeight_3 = new JButton("W=3");
+        btnLineWeight_5 = new JButton("W=5");
+        btnLineWeight_7 = new JButton("W=7");
+        btnColorRed = new JButton("||||||||||||");
+        btnColorGreen = new JButton("||||||||||||");
+        btnColorBlue = new JButton("||||||||||||");
+
 
         btnLineWeight_1.setBounds(5, 5, 60, 25);
-        btnLineWeight_3.setBounds(70, 5, 60, 25);
+        btnLineWeight_5.setBounds(70, 5, 60, 25);
+        btnLineWeight_7.setBounds(135, 5, 60, 25);
+        btnColorRed.setBounds(200, 5, 60, 25);
+        btnColorGreen.setBounds(265, 5, 60, 25);
+        btnColorBlue.setBounds(330, 5, 60, 25);
+        btnColorRed.setForeground(Color.RED);
+        btnColorGreen.setForeground(Color.GREEN);
+        btnColorBlue.setForeground(Color.BLUE);
 
-        toolBar.add(btnLineWeight_1);
-        toolBar.add(btnLineWeight_3);
+        add(btnLineWeight_1);
+        add(btnLineWeight_5);
+        add(btnLineWeight_7);
+        add(btnColorRed);
+        add(btnColorGreen);
+        add(btnColorBlue);
 
-
+        btnLineWeight_1.addActionListener(cmd.lineWCmd_1);
+        btnLineWeight_5.addActionListener(cmd.lineWCmd_5);
+        btnLineWeight_7.addActionListener(cmd.lineWCmd_7);
+        btnColorRed.addActionListener(cmd.colCmdRed);
+        btnColorGreen.addActionListener(cmd.colCmdGreen);
+        btnColorBlue.addActionListener(cmd.colCmdBlue);
+        setFloatable(false);
+        setRollover(true);
     }
 }
