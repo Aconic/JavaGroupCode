@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Canvas\Menus.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Command.java" afterPath="$PROJECT_DIR$/src/Canvas/Command.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/ColorPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Frame.java" afterPath="$PROJECT_DIR$/src/Canvas/Frame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Toolbar.java" afterPath="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaGroupTask.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +23,7 @@
     <file path="/Task5.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414942078031" ignored="false" />
     <file path="/a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417635428078" ignored="false" />
     <file path="/sample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413734562031" ignored="false" />
-    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421851972626" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421927497036" ignored="false" />
     <file path="/Task3Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140831921" ignored="false" />
     <file path="/CombinationLockTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349267046" ignored="false" />
     <file path="/CombinationLock.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349998046" ignored="false" />
@@ -66,7 +64,7 @@
     <file path="/ExListTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418835617843" ignored="false" />
     <file path="/ExList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417181457384" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417286490500" ignored="false" />
-    <file path="/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757561101" ignored="false" />
+    <file path="/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421931465419" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417286637953" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home04/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287164171" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home07/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287536046" ignored="false" />
@@ -133,21 +131,25 @@
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home05/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421673974966" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421674447598" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/bonus03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421675524511" ignored="false" />
-    <file path="/Cat.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421675716776" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Cat.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421675725377" ignored="false" />
+    <file path="/Cat.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421929332024" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Cat.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421929400463" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421676604368" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421677698359" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421677941598" ignored="false" />
-    <file path="/Toolbar.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421848027574" ignored="false" />
+    <file path="/Toolbar.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421858975703" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421740869003" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754227616" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754576561" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421754778452" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/home07/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421756663039" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/home01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421756854399" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757241096" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421927907376" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/bonus01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421757780336" ignored="false" />
     <file path="/MenuContext.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421851534188" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task04/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421928793383" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level07/lesson12/home05/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421930783351" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson03/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421931040949" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson03/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421931521376" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +186,7 @@
   </component>
   <component name="DebuggerManager">
     <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -219,7 +221,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -243,16 +245,16 @@
       <file leaf-file-name="ColorPanel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Canvas/ColorPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+            <state line="15" column="32" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Frame.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Frame.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="6" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0">
+            <state line="27" column="41" selection-start="682" selection-end="682" vertical-scroll-proportion="0.52698046">
               <folding />
             </state>
           </provider>
@@ -261,19 +263,25 @@
       <file leaf-file-name="PaintPanel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#mouseReleased#0;class#PaintPanel#0" expanded="false" />
-                <element signature="method#mouseEntered#0;class#PaintPanel#0" expanded="false" />
-              </folding>
+            <state line="26" column="45" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuContext.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MenuContext.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Canvas/MenuContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.37138262">
+            <state line="15" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Toolbar.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="3" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -304,16 +312,16 @@
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Toolbar.java" />
         <option value="$PROJECT_DIR$/src/CopyCan/Canvas/Frame.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Main.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Menus.java" />
         <option value="$PROJECT_DIR$/src/Canvas/DataSet.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Command.java" />
         <option value="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/MenuContext.java" />
         <option value="$PROJECT_DIR$/src/Canvas/MenuTop.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/Frame.java" />
         <option value="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/MenuContext.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/ColorPanel.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Toolbar.java" />
+        <option value="$PROJECT_DIR$/src/Canvas/Frame.java" />
       </list>
     </option>
   </component>
@@ -489,7 +497,7 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="Database.TableEditor.Splitter" value="0.9" />
@@ -825,7 +833,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32441473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.04943274" sideWeight="0.7198068" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7198068" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1884058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -834,17 +841,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3188406" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18683083" sideWeight="0.22222222" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19529983" sideWeight="0.7198068" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16755603" sideWeight="0.72240806" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27759197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1664888" sideWeight="0.72302735" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27657267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32441473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3188406" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.71497583" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -909,71 +917,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DbApp/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="30" selection-end="30" vertical-scroll-proportion="0.08225807" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson21/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.3279743">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Canvas/ColorPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="67" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.84726685">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="48" selection-start="1414" selection-end="1414" vertical-scroll-proportion="-0.22990353">
-          <folding>
-            <element signature="method#mousePressed#0;class#WidthPanel#0" expanded="false" />
-            <element signature="method#mouseEntered#0;class#WidthPanel#0" expanded="false" />
-            <element signature="method#mouseExited#0;class#WidthPanel#0" expanded="false" />
-            <element signature="method#mouseDragged#0;class#WidthPanel#0" expanded="false" />
-            <element signature="method#mouseMoved#0;class#WidthPanel#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="26" selection-start="2274" selection-end="2274" vertical-scroll-proportion="2.5691319">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/DataSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/MenuTop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="75" selection-start="39" selection-end="39" vertical-scroll-proportion="0.08199357">
           <folding />
         </state>
       </provider>
@@ -988,16 +934,87 @@
     <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="8" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#mouseReleased#0;class#PaintPanel#0" expanded="false" />
-            <element signature="method#mouseEntered#0;class#PaintPanel#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Canvas/MenuContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.37138262">
+        <state line="15" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DbApp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="30" selection-end="30" vertical-scroll-proportion="0.08225807" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson21/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.3279743" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="48" selection-start="1414" selection-end="1414" vertical-scroll-proportion="-0.22990353" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="26" selection-start="2274" selection-end="2274" vertical-scroll-proportion="2.5691319">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/MenuTop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="75" selection-start="39" selection-end="39" vertical-scroll-proportion="0.08199357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/MenuContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Toolbar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="3" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/ColorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="32" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/PaintPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="45" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="41" selection-start="682" selection-end="682" vertical-scroll-proportion="0.52698046">
           <folding />
         </state>
       </provider>
