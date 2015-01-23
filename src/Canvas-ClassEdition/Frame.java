@@ -1,7 +1,8 @@
-package Canvas;
+package CopyCan.Canvas;
 
 
 import javax.swing.*;
+import java.awt.*;
 
 public class Frame extends JFrame
 
@@ -20,27 +21,29 @@ public class Frame extends JFrame
 
          ColorPanel colorPanel = new ColorPanel(command);
          WidthPanel widthPanel = new WidthPanel(command);
-         PaintPanel paintPanel = new PaintPanel(command);
-         JToolBar toolbar = new Toolbar(command);
-         FigurePanel figurePanel = new FigurePanel(command);
+         PaintPanel paintPanel = new PaintPanel();
+         Toolbar toolbar = new Toolbar(command);
 
          paintPanel.data = data;
 
-         colorPanel.setBounds(0,0,150, 100);
-         widthPanel.setBounds(0,100,150,200);
-         figurePanel.setBounds (0,300,150,250);
+         colorPanel.setBounds(0,40,150, 80);
+         widthPanel.setBounds(0,100,150,400);
          paintPanel.setBounds(150,40,550,600);
-         toolbar.setBounds(150,0,600,40);
+         toolbar.setBounds(0,0,700, 40);
 
          add(widthPanel);
          add(colorPanel);
-         add(figurePanel);
          add(paintPanel);
          add(toolbar);
 
-         MenuTop mnu = new MenuTop(command);
+
+         Menus mnu = new Menus(command);
          setJMenuBar(mnu);
+         paintPanel.setComponentPopupMenu(mnu.popupMenu);
+
          setVisible(true);
+
+
      }
 }
 

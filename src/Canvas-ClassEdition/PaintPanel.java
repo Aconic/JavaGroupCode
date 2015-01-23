@@ -1,4 +1,4 @@
-package Canvas;
+package CopyCan.Canvas;
 
 import javax.swing.*;
 import java.awt.*;
@@ -11,26 +11,17 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
     Color col = Color.BLACK;
     int x = 0;
     int y = 0;
-
-    DataSet data = null;
     JPopupMenu popupMenu = null;
-    MenuContext menuContext = null;
+    Menus mnu = null;
+    Command command = null;
+    DataSet data = null;
 
-    PaintPanel(Command cmd)
+    PaintPanel()
     {
-        data = cmd.data;
-        data.figureSelect = new FigurePen(this);
-        cmd.paintPanel = this;
-        addMouseListener(data.figureSelect);
-        addMouseMotionListener(data.figureSelect);
-
         setLayout(null);
         setBackground(Color.darkGray);
-        menuContext = new MenuContext(cmd);
-        popupMenu = new JPopupMenu();
-        popupMenu.add(menuContext.lwMenu);
-        popupMenu.add(menuContext.colMenu);
-        setComponentPopupMenu(popupMenu);
+        addMouseListener(this);
+        addMouseMotionListener(this);
     }
 
     @Override
@@ -54,34 +45,6 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
         g.setColor(col);
         g.fillRect(0, 0, 20, 20);
     }
-
-    void addMListener(MouseListener mListener)
-    {
-        MouseListener[] ml = getMouseListeners();
-
-        if (ml != null)
-        {
-            for (MouseListener myMl : ml)
-            {
-                removeMouseListener(myMl);
-            }
-        }
-        addMouseListener(mListener);
-    }
-
-    void addMyMotionListener(MouseMotionListener mListener)
-    {
-        MouseMotionListener[] mml = getMouseMotionListeners();
-        if (mml != null)
-        {
-            for (MouseMotionListener myMl : mml)
-            {
-                removeMouseMotionListener(myMl);
-            }
-        }
-        addMouseMotionListener(mListener);
-    }
-
 
     @Override
     public void mousePressed(MouseEvent mouseEvent)

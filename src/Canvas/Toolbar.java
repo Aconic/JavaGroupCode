@@ -17,17 +17,17 @@ public class Toolbar extends JToolBar
     public Toolbar(Command cmd)
     {
         setLayout(null);
-        btnLineWeight_1 = new JButton("W=1");
-        btnLineWeight_5 = new JButton("W=5");
-        btnLineWeight_7 = new JButton("W=7");
+        btnLineWeight_1 = new JButton("1");
+        btnLineWeight_5 = new JButton("5");
+        btnLineWeight_7 = new JButton("7");
         btnColorRed = new JButton("||||||||||||");
         btnColorGreen = new JButton("||||||||||||");
         btnColorBlue = new JButton("||||||||||||");
 
 
-        btnLineWeight_1.setBounds(5, 5, 60, 25);
-        btnLineWeight_5.setBounds(70, 5, 60, 25);
-        btnLineWeight_7.setBounds(135, 5, 60, 25);
+        btnLineWeight_1.setBounds(40, 5, 40, 25);
+        btnLineWeight_5.setBounds(80, 5, 40, 25);
+        btnLineWeight_7.setBounds(120, 5, 40, 25);
         btnColorRed.setBounds(200, 5, 60, 25);
         btnColorGreen.setBounds(265, 5, 60, 25);
         btnColorBlue.setBounds(330, 5, 60, 25);

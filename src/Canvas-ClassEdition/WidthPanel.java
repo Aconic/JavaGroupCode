@@ -1,4 +1,4 @@
-package Canvas;
+package CopyCan.Canvas;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
@@ -33,14 +33,14 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
         slider = new JSlider(JSlider.HORIZONTAL, 1, 14, 1);
         labelW = new JLabel();
 
-        textField.setBounds(10, 20, 120, 25);
-        btnWeight1.setBounds(10, 50, 60, 25);
-        btnWeight5.setBounds(70, 50, 60, 25);
+        textField.setBounds(10, 20, 90, 25);
+        btnWeight1.setBounds(10, 60, 60, 25);
+        btnWeight5.setBounds(10, 90, 60, 25);
 
-        labelW.setBounds(10, 100, 80, 25);
-        slider.setBounds(10, 120, 80, 25);
-        radioButtonWeight1.setBounds(10, 160, 50, 25);
-        radioButtonWeight5.setBounds(70, 160, 50, 25);
+        labelW.setBounds(10, 140, 80, 25);
+        slider.setBounds(10, 160, 80, 25);
+        radioButtonWeight1.setBounds(10, 220, 50, 25);
+        radioButtonWeight5.setBounds(10, 250, 50, 25);
         labelW.setText(data.lw + " px");
 
         add(btnWeight1);
@@ -59,18 +59,10 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
         radioButtonWeight1.addActionListener(cmd.lineWCmd_1);
         radioButtonWeight5.addActionListener(cmd.lineWCmd_5);
 
-        slider.addChangeListener(new ChangeListener()
-        {
-            @Override
-            public void stateChanged(ChangeEvent changeEvent)
-            {
-                data.lw = slider.getValue();
-                labelW.setText(data.lw + " px");
-            }
-        });
+        slider.addChangeListener(cmd.sldCmd);
+
+
     }
-
-
     @Override
     public void mouseWheelMoved(MouseWheelEvent e)
     {
@@ -87,7 +79,6 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
         slider.setValue(data.lw);
         labelW.setText(data.lw + " px");
     }
-
 
     @Override
     public void mouseClicked(MouseEvent mouseEvent)
@@ -126,6 +117,7 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
     {
         //To change body of implemented methods use File | Settings | File Templates.
     }
+
 
 }
 

@@ -1,15 +1,17 @@
-package Canvas;
+package CopyCan.Canvas;
 
 
 import javax.swing.*;
+import javax.swing.event.ChangeEvent;
+import javax.swing.event.ChangeListener;
 import java.awt.*;
+import java.awt.Frame;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Command
 {
     DataSet data = null;
-    PaintPanel paintPanel = null;
 
     ColorCommand colCmd = new ColorCommand();
     ColorCommandRed colCmdRed = new ColorCommandRed();
@@ -20,11 +22,7 @@ public class Command
     LineWCommand_5 lineWCmd_5 = new LineWCommand_5();
     LineWCommand_7 lineWCmd_7 = new LineWCommand_7();
 
-
-    PenCommand penCommand = new PenCommand();
-    RectangleCommand rectangleCommand = new RectangleCommand();
-    CircleCommand circleCommand = new CircleCommand();
-
+    SliderCommand sldCmd = new SliderCommand();
 
     class ColorCommand implements ActionListener
     {
@@ -33,7 +31,7 @@ public class Command
         public void actionPerformed(ActionEvent actionEvent)
         {
             data.col = JColorChooser.showDialog(null, "Select Color", data.col);
-        }
+          }
     }
 
     class ColorCommandRed implements ActionListener
@@ -95,38 +93,13 @@ public class Command
     }
 
 
-    class RectangleCommand implements ActionListener
+     class SliderCommand   implements ChangeListener
     {
         @Override
-        public void actionPerformed(ActionEvent arg0)
+        public void stateChanged(ChangeEvent changeEvent)
         {
-            data.figureSelect = new FigureRect(paintPanel);
-            paintPanel.addMListener(data.figureSelect);
-            paintPanel.addMyMotionListener(data.figureSelect);
-
+          //  data.lw = wp.slider.getValue();
+        //    wp.labelW.setText(data.lw + " px");
         }
     }
-
-    class PenCommand implements ActionListener
-    {
-        @Override
-        public void actionPerformed(ActionEvent arg0)
-        {
-            data.figureSelect = new FigurePen(paintPanel);
-            paintPanel.addMListener(data.figureSelect);
-            paintPanel.addMyMotionListener(data.figureSelect);
-        }
-    }
-
-    class CircleCommand implements ActionListener
-    {
-        @Override
-        public void actionPerformed(ActionEvent arg0)
-        {
-            data.figureSelect = new FigureCircle(paintPanel);
-            paintPanel.addMListener(data.figureSelect);
-            paintPanel.addMyMotionListener(data.figureSelect);
-        }
-    }
-
 }

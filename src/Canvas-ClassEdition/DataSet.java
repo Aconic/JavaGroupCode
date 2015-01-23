@@ -1,4 +1,4 @@
-package Canvas;
+package CopyCan.Canvas;
 
 import java.awt.*;
 
@@ -9,7 +9,6 @@ public class DataSet
     Color col = Color.BLACK;
     int x = 0;
     int y = 0;
-    FigureSelect figureSelect = null;
 
     void setLineWidth(int lw)
     {

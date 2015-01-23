@@ -1,4 +1,4 @@
-package Canvas;
+package CopyCan.Canvas;
 
 
 import javax.swing.*;
@@ -13,7 +13,7 @@ public class ColorPanel extends JPanel
         setLayout(null);
         setBackground(Color.GRAY.brighter());
         btnColor = new JButton("Color");
-        btnColor.setBounds(10, 20, 80, 25);
+        btnColor.setBounds(10, 10, 80, 25);
         add(btnColor);
         btnColor.addActionListener(cmd.colCmd);
     }
