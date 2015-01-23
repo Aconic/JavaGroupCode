@@ -24,6 +24,7 @@ public class Command
     PenCommand penCommand = new PenCommand();
     RectangleCommand rectangleCommand = new RectangleCommand();
     CircleCommand circleCommand = new CircleCommand();
+    RectangleRoundedCommand rectangleRoundedCommand = new RectangleRoundedCommand();
 
 
     class ColorCommand implements ActionListener
@@ -129,4 +130,14 @@ public class Command
         }
     }
 
+     class RectangleRoundedCommand  implements ActionListener
+    {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent)
+        {
+            data.figureSelect = new RectangleRounded(paintPanel);
+            paintPanel.addMListener(data.figureSelect);
+            paintPanel.addMyMotionListener(data.figureSelect);
+        }
+    }
 }
