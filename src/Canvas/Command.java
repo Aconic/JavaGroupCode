@@ -135,7 +135,7 @@ public class Command
         @Override
         public void actionPerformed(ActionEvent actionEvent)
         {
-            data.figureSelect = new RectangleRounded(paintPanel);
+            data.figureSelect = new FigureRectRounded(paintPanel);
             paintPanel.addMListener(data.figureSelect);
             paintPanel.addMyMotionListener(data.figureSelect);
         }
