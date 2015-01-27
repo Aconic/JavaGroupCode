@@ -1,8 +1,8 @@
-package Canvas;
+package CanvasClassEdition;
 
 import javax.swing.*;
 
-public class MenuTop extends JMenuBar
+public class Menus extends JMenuBar
 {
     JMenu lwMenu = null;
     JMenu colMenu = null;
@@ -12,8 +12,9 @@ public class MenuTop extends JMenuBar
     JMenuItem colItemRed = null;
     JMenuItem colItemGreen = null;
     JMenuItem colItemBlue = null;
+    JPopupMenu popupMenu = null;
 
-    MenuTop(Command cmd)
+    Menus(Command cmd)
     {
         lwMenu = new JMenu("LineWeight");
         colMenu = new JMenu("Color");
@@ -23,6 +24,7 @@ public class MenuTop extends JMenuBar
         colItemRed = new JMenuItem("Red");
         colItemGreen = new JMenuItem("Green");
         colItemBlue = new JMenuItem("Blue");
+        popupMenu = new JPopupMenu();
 
         lwItem1.addActionListener(cmd.lineWCmd_1);
         lwItem5.addActionListener(cmd.lineWCmd_5);
@@ -41,6 +43,9 @@ public class MenuTop extends JMenuBar
         colMenu.add(colItemGreen);
         colMenu.addSeparator();
         colMenu.add(colItemBlue);
+
+        popupMenu.add(lwMenu);
+        popupMenu.add(colMenu);
 
         add(lwMenu);
         add(colMenu);
