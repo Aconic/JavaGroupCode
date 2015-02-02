@@ -1,6 +1,7 @@
 package Canvas;
 
 import java.awt.*;
+import java.awt.image.BufferedImage;
 
 
 public class DataSet
@@ -9,6 +10,7 @@ public class DataSet
     Color col = Color.BLACK;
     int x = 0;
     int y = 0;
+    BufferedImage img;
     FigureSelect figureSelect = null;
 
     void setLineWidth(int lw)

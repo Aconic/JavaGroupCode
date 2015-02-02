@@ -12,17 +12,23 @@ public class MenuTop extends JMenuBar
     JMenuItem colItemRed = null;
     JMenuItem colItemGreen = null;
     JMenuItem colItemBlue = null;
+    JMenu fileMenu = null;
+    JMenuItem fileOpen;
+    JMenuItem fileSave;
 
     MenuTop(Command cmd)
     {
         lwMenu = new JMenu("LineWeight");
         colMenu = new JMenu("Color");
+        fileMenu = new JMenu("File");
         lwItem1 = new JMenuItem("1");
         lwItem5 = new JMenuItem("5");
         lwItem7 = new JMenuItem("7");
         colItemRed = new JMenuItem("Red");
         colItemGreen = new JMenuItem("Green");
         colItemBlue = new JMenuItem("Blue");
+        fileOpen = new JMenuItem("Open");
+        fileSave = new JMenuItem("Save");
 
         lwItem1.addActionListener(cmd.lineWCmd_1);
         lwItem5.addActionListener(cmd.lineWCmd_5);
@@ -30,6 +36,9 @@ public class MenuTop extends JMenuBar
         colItemRed.addActionListener(cmd.colCmdRed);
         colItemGreen.addActionListener(cmd.colCmdGreen);
         colItemBlue.addActionListener(cmd.colCmdBlue);
+
+        fileOpen.addActionListener(cmd.fileOpenCommand);
+        fileSave.addActionListener(cmd.fileSaveCommand);
 
         lwMenu.add(lwItem1);
         lwMenu.addSeparator();
@@ -41,7 +50,9 @@ public class MenuTop extends JMenuBar
         colMenu.add(colItemGreen);
         colMenu.addSeparator();
         colMenu.add(colItemBlue);
-
+        fileMenu.add(fileOpen);
+        fileMenu.add(fileSave);
+        add(fileMenu);
         add(lwMenu);
         add(colMenu);
        }

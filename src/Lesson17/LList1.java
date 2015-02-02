@@ -22,12 +22,6 @@ public class LList1 implements ExList
     boolean flagLength0 = false;
 
     @Override
-    public void setArray(int[] a)
-    {
-
-    }
-
-    @Override
     public void init(int[] ar)
     {
         if (ar.length == 0)
@@ -329,6 +323,12 @@ public class LList1 implements ExList
             count++;
         }
         return res;
+    }
+
+    @Override
+    public void setArray(int[] a)
+    {
+
     }
 }
 

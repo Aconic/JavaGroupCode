@@ -16,7 +16,10 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="h2-1.4.182" level="project" />
+    <orderEntry type="library" name="selenium-java-2.44.0" level="project" />
+    <orderEntry type="library" name="selenium-java-2.44.01" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="testng-plugin" level="project" />
   </component>
 </module>
 

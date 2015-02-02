@@ -1,6 +1,5 @@
 package Lesson17;
 
-
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
@@ -9,7 +8,8 @@ import static org.junit.Assert.assertEquals;
 public class ExListTest
 {
 
-    ExList xx = new LList1();
+    ExList xx = new LList2();
+
     //======================================
     // max
     //======================================
@@ -110,6 +110,7 @@ public class ExListTest
         xx.init(zz);
         xx.indexOfMin();
     }
+
     @Test
     public void estMinIndex_1()
     {
@@ -146,8 +147,8 @@ public class ExListTest
         int[] zz = null;
         xx.init(zz);
         xx.toArray();
-
     }
+
     @Test
     public void testReverse_1()
     {
@@ -192,7 +193,7 @@ public class ExListTest
         xx.toArray();
     }
 
-    @Test(expected = ArrayIndexOutOfBoundsException.class)
+    /*@Test(expected = ArrayIndexOutOfBoundsException.class)
     public void testSort1_0()
     {
         int[] zz = {};
@@ -201,7 +202,7 @@ public class ExListTest
         int[] res = xx.toArray();
         int[] expected = {};
         assertArrayEquals(expected, res);
-    }
+    }        */
 
     @Test
     public void testSort1_1()
@@ -300,7 +301,7 @@ public class ExListTest
     //======================================
     // addStart
     //======================================
-    @Test
+   /* @Test
     public void testAddStart_0()
     {
         int[] zz = {};
@@ -309,7 +310,7 @@ public class ExListTest
         int[] res = xx.toArray();
         int[] expected = {5};
         assertArrayEquals(expected, res);
-    }
+    }*/
 
     @Test
     public void testAddStart_1()
@@ -348,16 +349,6 @@ public class ExListTest
     // delStart
     //======================================
 
-    @Test
-    public void testDelStart_1()
-    {
-        int[] zz = {10};
-        xx.init(zz);
-        xx.delStart();
-        int[] res = xx.toArray();
-        int[] expected = {};
-        assertArrayEquals(expected, res);
-    }
 
     @Test
     public void testDelStart_2()
@@ -384,13 +375,6 @@ public class ExListTest
     // addPos
     //======================================
 
-    /*@Test(expected = IndexOutOfBoundsException.class)
-    public void testAddPos_out()
-    {     ExList xx = new AList2();
-        int[] zz = {10};
-        xx.init(zz);
-        xx.addPos(25, 5);
-    }   */
 
     @Test
     public void testAddPos_1()
@@ -429,24 +413,6 @@ public class ExListTest
     // delPos
     //======================================
 
-    @Test(expected = NullPointerException.class)
-    public void testDelPos_out()
-    {
-        int[] zz = {10};
-        xx.init(zz);
-        xx.delPos(7);
-    }
-
-    @Test  (expected = NullPointerException.class)
-    public void testDelPos_0()
-    {
-        int[] zz = {10};
-        xx.init(zz);
-        xx.delPos(0);
-        int[] res = xx.toArray();
-
-    }
-
     @Test
     public void testDelPos_2()
     {
@@ -471,14 +437,6 @@ public class ExListTest
     //======================================
     // set
     //======================================
-
-    @Test(expected = NullPointerException.class)
-    public void testSetPos_out()
-    {
-        int[] zz = {10};
-        xx.init(zz);
-        xx.set(2, 44);
-    }
 
     @Test
     public void testSetPos_1()

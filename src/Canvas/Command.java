@@ -1,10 +1,12 @@
 package Canvas;
 
 
+import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
 
 public class Command
 {
@@ -25,7 +27,8 @@ public class Command
     RectangleCommand rectangleCommand = new RectangleCommand();
     CircleCommand circleCommand = new CircleCommand();
     RectangleRoundedCommand rectangleRoundedCommand = new RectangleRoundedCommand();
-
+    FileOpenCommand fileOpenCommand = new FileOpenCommand();
+    FileSaveCommand fileSaveCommand = new FileSaveCommand();
 
     class ColorCommand implements ActionListener
     {
@@ -104,7 +107,6 @@ public class Command
             data.figureSelect = new FigureRect(paintPanel);
             paintPanel.addMListener(data.figureSelect);
             paintPanel.addMyMotionListener(data.figureSelect);
-
         }
     }
 
@@ -130,7 +132,7 @@ public class Command
         }
     }
 
-     class RectangleRoundedCommand  implements ActionListener
+    class RectangleRoundedCommand implements ActionListener
     {
         @Override
         public void actionPerformed(ActionEvent actionEvent)
@@ -140,4 +142,52 @@ public class Command
             paintPanel.addMyMotionListener(data.figureSelect);
         }
     }
+
+    class FileOpenCommand implements ActionListener
+    {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent)
+        {
+            JFileChooser fileChooser = new JFileChooser();
+            int res = fileChooser.showOpenDialog(null);
+            if (res == JFileChooser.APPROVE_OPTION)
+            {
+                try
+                {
+                    data.img = ImageIO.read(fileChooser.getSelectedFile());
+                } catch (IOException e)
+                {
+                    e.printStackTrace();
+                }
+                paintPanel.img.getGraphics().drawImage(data.img, 0, 0, 400, 400, null);
+                paintPanel.repaint();
+            }
+        }
+    }
+
+    class FileSaveCommand implements ActionListener
+    {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent)
+        {
+            JFileChooser fileChooser = new JFileChooser();
+            int res = fileChooser.showSaveDialog(null);
+            if (res == JFileChooser.APPROVE_OPTION)
+            {
+
+                try
+                {
+                    ImageIO.write(data.img, "JPG", fileChooser.getSelectedFile());
+                } catch (IOException e)
+                {
+                    e.printStackTrace();
+                }
+            }
+        }
+    }
 }
+
+
+
+
+

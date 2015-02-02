@@ -5,14 +5,14 @@ import javax.swing.*;
 
 public class Main
 {
-    public static void main(String[]args)
+    public static void main(String[] args)
     {
         try
         {
             UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
+        } catch (Exception e)
+        {
         }
-        catch(Exception e){
-        }
-       new Frame();
+        new Frame();
     }
 }

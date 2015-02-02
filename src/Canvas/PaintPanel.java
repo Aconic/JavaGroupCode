@@ -3,6 +3,7 @@ package Canvas;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.awt.image.BufferedImage;
 
 public class PaintPanel extends JPanel implements MouseListener, MouseMotionListener
 {
@@ -15,6 +16,7 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
     DataSet data = null;
     JPopupMenu popupMenu = null;
     MenuContext menuContext = null;
+    BufferedImage img;
 
     PaintPanel(Command cmd)
     {
@@ -31,6 +33,9 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
         popupMenu.add(menuContext.lwMenu);
         popupMenu.add(menuContext.colMenu);
         setComponentPopupMenu(popupMenu);
+        img = new BufferedImage(600, 400, BufferedImage.TYPE_INT_ARGB);
+        img.getGraphics().fillRect(0, 0, 600, 400);
+
     }
 
     @Override
@@ -46,6 +51,15 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
         data.x = x;
         data.y = y;
     }
+
+    @Override
+   public void paint(Graphics g)
+    {
+        super.paint(g);
+        g.drawImage(data.img,0,0, 600,400,null);
+
+    }
+
 
     @Override
     public void paintComponent(Graphics g)

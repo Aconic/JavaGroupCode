@@ -22,21 +22,23 @@ public class FigureRectRounded extends FigureSelect
         int width = Math.abs(firstX - lastX);
         int height = Math.abs(firstY - lastY);
 
+
+
         if (firstX < lastX && firstY < lastY)
         {
-            g.drawRect(firstX, firstY, width, height);
+          g.drawRoundRect(firstX, firstY, width, height, 20,15 );
         }
         else if (firstX > lastX && firstY > lastY)
         {
-            g.drawRect(lastX, lastY, width, height);
+            g.drawRoundRect(lastX, lastY, width, height, 20,15);
         }
         else if (firstX < lastX && firstY > lastY)
         {
-            g.drawRect(firstX, lastY, width, height);
+            g.drawRoundRect(firstX, lastY, width, height, 20,15);
         }
         else if (firstX > lastX && firstY < lastY)
         {
-            g.drawRect(lastX, firstY, width, height);
+            g.drawRoundRect(lastX, firstY, width, height, 20,15);
         }
     }
 }

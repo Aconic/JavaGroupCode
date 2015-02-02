@@ -118,13 +118,13 @@ public class WidthPanel extends JPanel implements MouseListener, MouseMotionList
     @Override
     public void mouseDragged(MouseEvent mouseEvent)
     {
-        //To change body of implemented methods use File | Settings | File Templates.
+
     }
 
     @Override
     public void mouseMoved(MouseEvent mouseEvent)
     {
-        //To change body of implemented methods use File | Settings | File Templates.
+
     }
 
 }
