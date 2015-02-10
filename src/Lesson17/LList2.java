@@ -145,7 +145,8 @@ public class LList2 implements ExList
         {
             throw new NegativeArraySizeException();
         }
-        root =root.next;
+        root.next.prev=root.prev;
+        root = root.next;
 
     }
 

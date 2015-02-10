@@ -2,33 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\libraries\h2_1_4_182.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-11-13).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-11-28).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-12-02).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-12-09).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-12-17).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Конфликтующая копия с компьютера microsof-cbf751 2014-12-30).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\.idea\workspace (Спірна копія користувача 1102-01 2014-11-10).xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\ColorPanel.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\Command.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\DataSet.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\Frame.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\Menus.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\PaintPanel.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\Toolbar.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\CanvasClassEdition\WidthPanel.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Command.java" afterPath="$PROJECT_DIR$/src/Canvas/Command.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/DataSet.java" afterPath="$PROJECT_DIR$/src/Canvas/DataSet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson17/ExListTest.java" afterPath="$PROJECT_DIR$/src/Lesson17/ExListTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/FigureRectRounded.java" afterPath="$PROJECT_DIR$/src/Canvas/FigureRectRounded.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson17/LList1.java" afterPath="$PROJECT_DIR$/src/Lesson17/LList1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson_code.iml" afterPath="$PROJECT_DIR$/Lesson_code.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/Main.java" afterPath="$PROJECT_DIR$/src/Canvas/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/MenuTop.java" afterPath="$PROJECT_DIR$/src/Canvas/MenuTop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/PaintPanel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" afterPath="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson17/ExListTestNg.java" afterPath="$PROJECT_DIR$/src/Lesson17/ExListTestNg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Delete/FrameDraw.java" afterPath="$PROJECT_DIR$/src/Delete/FrameDraw.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson17/LList2.java" afterPath="$PROJECT_DIR$/src/Lesson17/LList2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson20/PersonFrame.java" afterPath="$PROJECT_DIR$/src/Lesson20/PersonFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java" afterPath="$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1b.java" afterPath="$PROJECT_DIR$/HomeWork/src/Conditions/Task1b.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson19/TreeExample.java" afterPath="$PROJECT_DIR$/src/Lesson19/TreeExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaGroupTask.iws" />
@@ -41,13 +23,13 @@
     <file path="/Task.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413399827625" ignored="false" />
     <file path="/Task2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417364207609" ignored="false" />
     <file path="/Task1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418574082671" ignored="false" />
-    <file path="/fragment.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422796510453" ignored="false" />
+    <file path="/fragment.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423494816080" ignored="false" />
     <file path="/Task4.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140867515" ignored="false" />
     <file path="/Task3.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416747819921" ignored="false" />
     <file path="/Task5.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414942078031" ignored="false" />
     <file path="/a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417635428078" ignored="false" />
     <file path="/sample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413734562031" ignored="false" />
-    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422879269448" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423553540295" ignored="false" />
     <file path="/Task3Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140831921" ignored="false" />
     <file path="/CombinationLockTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349267046" ignored="false" />
     <file path="/CombinationLock.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349998046" ignored="false" />
@@ -85,10 +67,10 @@
     <file path="$PROJECT_DIR$/Beta/src/Beta.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416926404658" ignored="false" />
     <file path="/AList1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418123983746" ignored="false" />
     <file path="/AList1Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417025843859" ignored="false" />
-    <file path="/ExListTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422795947843" ignored="false" />
+    <file path="/ExListTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423494883937" ignored="false" />
     <file path="/ExList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417181457384" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417286490500" ignored="false" />
-    <file path="/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421931465419" ignored="false" />
+    <file path="/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422974481724" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417286637953" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home04/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287164171" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home07/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417287536046" ignored="false" />
@@ -114,7 +96,7 @@
     <file path="/FileBrowser.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419763167343" ignored="false" />
     <file path="/TreePanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419435305742" ignored="false" />
     <file path="/TreeFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419342745963" ignored="false" />
-    <file path="/TreeMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419191277281" ignored="false" />
+    <file path="/TreeMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423556738015" ignored="false" />
     <file path="/TreeExample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1419283471906" ignored="false" />
     <file path="/PersonFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420820105718" ignored="false" />
     <file path="/PersonPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1420878442906" ignored="false" />
@@ -140,7 +122,7 @@
     <file path="/Menus.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614699859" ignored="false" />
     <file path="/MenuTop.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422475253312" ignored="false" />
     <file path="/Del.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421333284616" ignored="false" />
-    <file path="/Main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422803470046" ignored="false" />
+    <file path="/Main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422909229593" ignored="false" />
     <file path="$PROJECT_DIR$/src/Canvas/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421436363781" ignored="false" />
     <file path="/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421525516765" ignored="false" />
     <file path="/DataSet.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422474030218" ignored="false" />
@@ -185,14 +167,29 @@
     <file path="/TestCalcTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422369496199" ignored="false" />
     <file path="/ITestCalc.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422370138058" ignored="false" />
     <file path="/ButtonTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422738893093" ignored="false" />
-    <file path="/LList2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422882164264" ignored="false" />
+    <file path="/LList2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423068408859" ignored="false" />
     <file path="/Ar.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422451619821" ignored="false" />
     <file path="/TestSuite.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422891898193" ignored="false" />
-    <file path="/ResultTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422738922484" ignored="false" />
+    <file path="/ResultTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423080104390" ignored="false" />
     <file path="/ButtonJoinTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422738935750" ignored="false" />
     <file path="/LList3.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422781984125" ignored="false" />
-    <file path="/ExListTestNg.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422889038182" ignored="false" />
+    <file path="/ExListTestNg.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423069904437" ignored="false" />
     <file path="/VisualTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422891866187" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson06/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422967759385" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson06/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422968097354" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson06/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422968877773" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson06/task04/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422971434171" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson06/task05/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422972114070" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson08/task01/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422972945306" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson08/task02/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422973802675" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork/src/com/javarush/test/level08/lesson08/task03/Solution.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422975849280" ignored="false" />
+    <file path="/TestParam.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423077826687" ignored="false" />
+    <file path="$USER_HOME$/Мои документы/Dropbox/!Code_Rudin/!JavaCode/MavenStart/pom.xml" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423335704203" ignored="false" />
+    <file path="/pom.xml" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423335702203" ignored="false" />
+    <file path="$USER_HOME$/Мои документы/Dropbox/!Code_Rudin/!JavaCode/MavenStart/MavenStart.iml" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423336943625" ignored="false" />
+    <file path="/TestParamNG.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423338920937" ignored="false" />
+    <file path="/TreeList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423557177958" ignored="false" />
+    <file path="/ETreeList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423495192772" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,11 +203,11 @@
     <splitter proportion="0.072961375" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Lesson_code$PersonMain.coverage" NAME="PersonMain Coverage Results" MODIFIED="1419514406182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Lesson20.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Lesson_code$AListMain.coverage" NAME="AListMain Coverage Results" MODIFIED="1417184061881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Lesson12.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lesson_code$PersonMain.coverage" NAME="PersonMain Coverage Results" MODIFIED="1419514406182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson20.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Lesson_code$ExListTest.coverage" NAME="ExListTest Coverage Results" MODIFIED="1417209790734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Lesson12.*</FILTER>
@@ -231,6 +228,8 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -266,8 +265,6 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -279,39 +276,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="TreeMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BiTree/TreeMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="7" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BiTree/TreeList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="34" selection-start="132" selection-end="132" vertical-scroll-proportion="-0.02852349">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="LList2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson17/LList2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+            <state line="2" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LList1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson17/LList1.java">
+      <file leaf-file-name="ETreeList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BiTree/ETreeList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="0" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0">
+            <state line="6" column="20" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExListTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTest.java">
+      <file leaf-file-name="ExList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson17/ExList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="43" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LListMain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson17/LListMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="17" column="28" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -320,58 +324,7 @@
       <file leaf-file-name="ExListTestNg.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTestNg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="63" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson17/ExList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ButtonTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ButtonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="4" selection-start="683" selection-end="847" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VisualTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/VisualTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="49" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSuite.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/TestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="33" selection-start="280" selection-end="280" vertical-scroll-proportion="0.54226476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResultTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="20" selection-start="1410" selection-end="1422" vertical-scroll-proportion="0.0">
+            <state line="12" column="48" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -401,22 +354,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Canvas/Command.java" />
-        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/ButtonTest.java" />
-        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java" />
-        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/ButtonJoinTest.java" />
-        <option value="$PROJECT_DIR$/src/Lesson17/LList3.java" />
-        <option value="$PROJECT_DIR$/src/Lesson17/LList1.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/Main.java" />
-        <option value="$PROJECT_DIR$/src/Canvas/WidthPanel.java" />
-        <option value="$PROJECT_DIR$/src/Lesson22/Person.java" />
-        <option value="$PROJECT_DIR$/src/Lesson30/Person.java" />
+        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/VisualTest.java" />
+        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/TestSuite.java" />
         <option value="$PROJECT_DIR$/src/Lesson30/Main.java" />
         <option value="$PROJECT_DIR$/src/Lesson17/LList2.java" />
+        <option value="$PROJECT_DIR$/src/Lesson17/AList0.java" />
+        <option value="$PROJECT_DIR$/src/Lesson17/AList2.java" />
         <option value="$PROJECT_DIR$/src/Lesson17/ExListTest.java" />
+        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java" />
+        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/TestParam.java" />
         <option value="$PROJECT_DIR$/src/Lesson17/ExListTestNg.java" />
-        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/TestSuite.java" />
-        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/VisualTest.java" />
+        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/TestParamJUnit.java" />
+        <option value="$PROJECT_DIR$/src/SeleniumTestCalc/TestParamNG.java" />
+        <option value="$PROJECT_DIR$/src/BiTree/ExListTest.java" />
+        <option value="$PROJECT_DIR$/src/BiTree/ETreeList.java" />
+        <option value="$PROJECT_DIR$/src/BiTree/TreeMain.java" />
+        <option value="$PROJECT_DIR$/src/BiTree/TreeList.java" />
       </list>
     </option>
   </component>
@@ -434,58 +387,19 @@
             <id />
           </State>
           <State>
-            <id>Abstraction issues</id>
-          </State>
-          <State>
             <id>Android</id>
           </State>
           <State>
             <id>Android Lint</id>
           </State>
           <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Class metrics</id>
-          </State>
-          <State>
-            <id>Declaration redundancy</id>
-          </State>
-          <State>
-            <id>Error handling</id>
-          </State>
-          <State>
             <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Google Web Toolkit issues</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
-            <id>JSP Inspections</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>Method MetricsGroovy</id>
-          </State>
-          <State>
-            <id>Method metrics</id>
-          </State>
-          <State>
-            <id>Naming ConventionsGroovy</id>
-          </State>
-          <State>
-            <id>Naming conventions</id>
-          </State>
-          <State>
-            <id>OSGi</id>
-          </State>
-          <State>
-            <id>Security issues</id>
+            <id>WSDL issues</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -524,6 +438,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -571,28 +488,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SeleniumTestCalc" />
+              <option name="myItemId" value="Lesson17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaGroupCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaGroupCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaGroupCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BiTree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.30166668" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRush/JavaRushHomework/JavaRushHomeWork" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="Database.TableEditor.Splitter" value="0.9" />
@@ -617,23 +585,24 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BiTree" />
       <recent name="Lesson30" />
       <recent name="SeleniumTestCalc" />
       <recent name="DbApp" />
       <recent name="Lesson22" />
-      <recent name="Lesson21" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17" />
       <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\CopyCan" />
       <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\Canvas" />
       <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\DbApp" />
       <recent name="C:\Documents and Settings\Admin\Мои документы\Dropbox\!Code_Rudin\!JavaCode\Group\src\Lesson21" />
-      <recent name="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Lesson20" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Canvas" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="BiTree" />
       <recent name="CopyCan.Canvas" />
       <recent name="Lesson22" />
       <recent name="Lesson21" />
@@ -643,11 +612,95 @@
       <recent name="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Delete" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSuite">
-    <configuration default="false" name="ExListTestNg" type="TestNG" factoryName="TestNG" temporary="true">
+  <component name="RunManager" selected="Application.TreeMain">
+    <configuration default="false" name="TestParamJUnit" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lesson17.*" />
+          <option name="PATTERN" value="SeleniumTestCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lesson_code" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.TestParamJUnit" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ResultTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lesson_code" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.ResultTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ResultTest.testResultSum" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lesson_code" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.ResultTest" />
+      <option name="METHOD_NAME" value="testResultSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestParamNG" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestCalc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -655,8 +708,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="Lesson17" />
-      <option name="MAIN_CLASS_NAME" value="Lesson17.ExListTestNg" />
+      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.TestParamNG" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -675,120 +728,28 @@
       <envs />
       <properties />
       <listeners />
-      <RunnerSettings RunnerId="Cover" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Cover" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="VisualTest.btn_VisualTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestCalc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Lesson_code" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.VisualTest" />
-      <option name="METHOD_NAME" value="btn_VisualTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="VisualTest.btn2VisualTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TreeMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="SeleniumTestCalc.*" />
+          <option name="PATTERN" value="BiTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Lesson_code" />
+      <option name="MAIN_CLASS_NAME" value="BiTree.TreeMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.VisualTest" />
-      <option name="METHOD_NAME" value="btn2VisualTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="VisualTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestCalc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <module name="Lesson_code" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.VisualTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
       <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestSuite" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestCalc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Lesson_code" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="SeleniumTestCalc" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestCalc.TestSuite" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -896,19 +857,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.ExListTestNg" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.VisualTest.btn_VisualTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.VisualTest.btn2VisualTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.VisualTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSuite" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestParamJUnit" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ResultTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ResultTest.testResultSum" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.TestParamNG" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TreeMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestSuite" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VisualTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.VisualTest.btn2VisualTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.VisualTest.btn_VisualTest" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.ExListTestNg" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TreeMain" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestParamJUnit" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.TestParamNG" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ResultTest.testResultSum" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ResultTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -969,7 +930,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -983,15 +944,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3121516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30657747" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18683083" sideWeight="0.22222222" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19529983" sideWeight="0.7198068" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16328709" sideWeight="0.72798216" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27201784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16915688" sideWeight="0.6934225" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2664437" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32441473" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1060,43 +1021,55 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTestNg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="52" selection-start="301" selection-end="301" vertical-scroll-proportion="0.72" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/FigureRectRounded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.2" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/WidthPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="0" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Frame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson22/MyTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+        <state line="12" column="48" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson22/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ITestCalc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="2" selection-start="605" selection-end="605" vertical-scroll-proportion="0.042394016">
+        <state line="3" column="17" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="5" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="5" selection-start="1187" selection-end="1191" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExList.java">
+    <entry file="file://$PROJECT_DIR$/src/Canvas/Command.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+        <state line="162" column="43" selection-start="4489" selection-end="4489" vertical-scroll-proportion="0.7529138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="248" selection-end="248" vertical-scroll-proportion="0.34285715" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ButtonJoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="359" selection-end="359" vertical-scroll-proportion="0.028571429" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTestNg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="48" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson16/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="27" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1108,66 +1081,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson17/LList1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="0" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0">
+        <state line="6" column="13" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiTree/ETreeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson17/LList2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+        <state line="2" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BiTree/TreeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="43" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTestNg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="63" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ButtonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="4" selection-start="683" selection-end="847" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/ResultTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="20" selection-start="1410" selection-end="1422" vertical-scroll-proportion="0.0">
+        <state line="10" column="7" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/VisualTest.java">
+    <entry file="file://$PROJECT_DIR$/src/BiTree/TreeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="49" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeleniumTestCalc/TestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="33" selection-start="280" selection-end="280" vertical-scroll-proportion="0.54226476">
+        <state line="8" column="34" selection-start="132" selection-end="132" vertical-scroll-proportion="-0.02852349">
           <folding />
         </state>
       </provider>
@@ -1212,7 +1163,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1229,7 +1180,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

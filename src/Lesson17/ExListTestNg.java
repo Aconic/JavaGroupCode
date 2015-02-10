@@ -3,7 +3,6 @@ package Lesson17;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-
 public class ExListTestNg
 {
 
@@ -18,7 +17,7 @@ public class ExListTestNg
             int[] zz = {10};
             xx.init(zz);
             int res = xx.maxOfArray();
-            Assert.assertEquals(10, res);
+            Assert.assertEquals(res,10);
         }
 
         @Test
@@ -27,7 +26,7 @@ public class ExListTestNg
             int[] zz = {10, 20};
             xx.init(zz);
             int res = xx.maxOfArray();
-            Assert.assertEquals(20, res);
+            Assert.assertEquals(res, 20);
         }
 
         @Test
@@ -36,7 +35,7 @@ public class ExListTestNg
             int[] zz = {10, 20, 77, 11, 24, 99, 32};
             xx.init(zz);
             int res = xx.maxOfArray();
-            Assert.assertEquals(99, res);
+            Assert.assertEquals(res, 99);
         }
 
         //======================================
@@ -48,7 +47,7 @@ public class ExListTestNg
             int[] zz = {10};
             xx.init(zz);
             int res = xx.minOfArray();
-            Assert.assertEquals(10, res);
+            Assert.assertEquals(res, 10);
         }
 
         @Test
@@ -57,7 +56,7 @@ public class ExListTestNg
             int[] zz = {10, 20};
             xx.init(zz);
             int res = xx.minOfArray();
-            Assert.assertEquals(10, res);
+            Assert.assertEquals(res, 10);
         }
 
         @Test
@@ -66,7 +65,7 @@ public class ExListTestNg
             int[] zz = {10, 20, 77, 11, 24, 99, 32};
             xx.init(zz);
             int res = xx.minOfArray();
-            Assert.assertEquals(10, res);
+            Assert.assertEquals(res, 10);
         }
 
         //======================================
@@ -78,7 +77,7 @@ public class ExListTestNg
             int[] zz = {10};
             xx.init(zz);
             int res = xx.indexOfMax();
-            Assert.assertEquals(0, res);
+            Assert.assertEquals(res, 0);
         }
 
         @Test
@@ -87,7 +86,7 @@ public class ExListTestNg
             int[] zz = {10, 20};
             xx.init(zz);
             int res = xx.indexOfMax();
-            Assert.assertEquals(1, res);
+            Assert.assertEquals(res, 1);
         }
 
         @Test
@@ -96,7 +95,7 @@ public class ExListTestNg
             int[] zz = {10, 20, 77, 11, 24, 99, 32};
             xx.init(zz);
             int res = xx.indexOfMax();
-            Assert.assertEquals(5, res);
+            Assert.assertEquals(res,5);
         }
 
         //======================================
@@ -116,7 +115,7 @@ public class ExListTestNg
             int[] zz = {10};
             xx.init(zz);
             int res = xx.indexOfMin();
-            Assert.assertEquals(0, res);
+            Assert.assertEquals(res,0);
         }
 
         @Test
@@ -125,7 +124,7 @@ public class ExListTestNg
             int[] zz = {10, 20};
             xx.init(zz);
             int res = xx.indexOfMin();
-            Assert.assertEquals(0, res);
+            Assert.assertEquals(res,0);
         }
 
         @Test
@@ -134,7 +133,7 @@ public class ExListTestNg
             int[] zz = {10, 20, 77, 11, 24, 99, 32};
             xx.init(zz);
             int res = xx.indexOfMin();
-            Assert.assertEquals(0, res);
+            Assert.assertEquals(res,0);
         }
 
         //======================================
@@ -157,7 +156,7 @@ public class ExListTestNg
             xx.reverse();
             int[] res = xx.toArray();
             int[] expected = {10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -168,7 +167,7 @@ public class ExListTestNg
             xx.reverse();
             int[] res = xx.toArray();
             int[] expected = {20, 10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -179,7 +178,7 @@ public class ExListTestNg
             xx.reverse();
             int[] res = xx.toArray();
             int[] expected = {32, 99, 24, 11, 77, 20, 10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         //======================================
@@ -213,7 +212,7 @@ public class ExListTestNg
             xx.bubbleSort();
             int[] res = xx.toArray();
             int[] expected = {10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -224,7 +223,7 @@ public class ExListTestNg
             xx.bubbleSort();
             int[] res = xx.toArray();
             int[] expected = {10, 20};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -235,7 +234,7 @@ public class ExListTestNg
             xx.bubbleSort();
             int[] res = xx.toArray();
             int[] expected = {11, 20, 24, 32, 77, 99};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
 //======================================
@@ -250,7 +249,7 @@ public class ExListTestNg
             xx.addEnd(5);
             int[] res = xx.toArray();
             int[] expected = {10, 20, 32, 5};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -261,7 +260,7 @@ public class ExListTestNg
             xx.addEnd(5);
             int[] res = xx.toArray();
             int[] expected = {10, 20, 77, 11, 24, 99, 32, 5};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         //======================================
@@ -284,7 +283,7 @@ public class ExListTestNg
             xx.delEnd();
             int[] res = xx.toArray();
             int[] expected = {10, 20, 77, 11, 24, 99};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -295,7 +294,7 @@ public class ExListTestNg
             xx.delEnd();
             int[] res = xx.toArray();
             int[] expected = {10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         //======================================
@@ -320,7 +319,7 @@ public class ExListTestNg
             xx.addStart(5);
             int[] res = xx.toArray();
             int[] expected = {5, 10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res,expected);
         }
 
         @Test
@@ -331,7 +330,7 @@ public class ExListTestNg
             xx.addStart(5);
             int[] res = xx.toArray();
             int[] exp = {5, 11, 21};
-            Assert.assertEquals(exp, res);
+            Assert.assertEquals(res, exp);
         }
 
         @Test
@@ -342,7 +341,7 @@ public class ExListTestNg
             xx.addStart(5);
             int[] res = xx.toArray();
             int[] expected = {5, 10, 20, 77, 11, 24, 99, 32};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         //======================================
@@ -358,7 +357,7 @@ public class ExListTestNg
             xx.delStart();
             int[] res = xx.toArray();
             int[] expected = {20};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -369,7 +368,7 @@ public class ExListTestNg
             xx.delStart();
             int[] res = xx.toArray();
             int[] expected = {20, 77, 11, 24, 99, 32};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
         //======================================
         // addPos
@@ -384,7 +383,7 @@ public class ExListTestNg
             xx.addPos(0, 5);
             int[] res = xx.toArray();
             int[] expected = {5, 10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -395,7 +394,7 @@ public class ExListTestNg
             xx.addPos(1, 5);
             int[] res = xx.toArray();
             int[] expected = {10, 5, 20};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -421,7 +420,7 @@ public class ExListTestNg
             xx.delPos(1);
             int[] res = xx.toArray();
             int[] expected = {10};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -432,7 +431,7 @@ public class ExListTestNg
             xx.delPos(2);
             int[] res = xx.toArray();
             int[] expected = {10, 20, 11, 24, 99, 32};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
         //======================================
         // set
@@ -446,7 +445,7 @@ public class ExListTestNg
             xx.set(0, 44);
             int[] res = xx.toArray();
             int[] expected = {44};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -457,7 +456,7 @@ public class ExListTestNg
             xx.set(0, 44);
             int[] res = xx.toArray();
             int[] expected = {44, 20};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -468,7 +467,7 @@ public class ExListTestNg
             xx.set(0, 44);
             int[] res = xx.toArray();
             int[] expected = {44, 20, 77, 11, 24, 99, 32};
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         //======================================
@@ -482,7 +481,7 @@ public class ExListTestNg
             xx.init(zz);
             int res = xx.get(0);
             int expected = 10;
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -492,7 +491,7 @@ public class ExListTestNg
             xx.init(zz);
             int res = xx.get(0);
             int expected = 10;
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
 
         @Test
@@ -502,7 +501,7 @@ public class ExListTestNg
             xx.init(zz);
             int res = xx.get(0);
             int expected = 10;
-            Assert.assertEquals(expected, res);
+            Assert.assertEquals(res, expected);
         }
     }
 

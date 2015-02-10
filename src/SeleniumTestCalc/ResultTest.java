@@ -1,12 +1,13 @@
 package SeleniumTestCalc;
 
 
-import org.junit.*;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.io.File;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 import static com.thoughtworks.selenium.SeleneseTestCase.assertEquals;
 
@@ -17,9 +18,9 @@ public class ResultTest
     @BeforeClass
     public static void setUp()
     {
-        File f = new File("C:\\chromedriver.exe");
-        System.setProperty("webdriver.chrome.driver", f.getAbsolutePath());
-        driver = new ChromeDriver();
+       // File f = new File("C:\\chromedriver.exe");
+        //System.setProperty("webdriver.chrome.driver", f.getAbsolutePath());
+        driver = new FirefoxDriver();
         driver.get("file:///D:/Dropbox/!Code_Rudin/JS-HTML/ClassWork/calculator.html");
     }
 
@@ -29,8 +30,8 @@ public class ResultTest
         driver.navigate().refresh();
     }
 
-    @AfterClass
-    public static void close()
+    @After
+    public  void close()
     {
         driver.close();
     }

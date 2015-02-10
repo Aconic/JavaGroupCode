@@ -1,14 +1,39 @@
 package Lesson17;
 
+import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
+import org.junit.runners.Parameterized.Parameters;
+
+import java.util.Arrays;
+import java.util.List;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
+@RunWith(value = Parameterized.class)
+
 public class ExListTest
 {
+    ExList xx;
 
-    ExList xx = new LList2();
+    public ExListTest(ExList xx)
+    {
+        this.xx = xx;
+    }
+
+    @Parameters
+    public static List<Object[]> data()
+    {
+        return Arrays.asList(new Object[][]{  { new AList0()},  { new AList2()},  {new LList1()}, { new LList2()}} );
+    }
+
+    @Before
+    public void clear()
+    {
+
+    }
 
     //======================================
     // max

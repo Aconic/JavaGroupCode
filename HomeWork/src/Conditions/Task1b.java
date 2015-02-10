@@ -22,7 +22,7 @@ public class Task1b
         panel.add(new JLabel("Число 2"));
         panel.add(new JButton("Посчитать"));
         JOptionPane.showMessageDialog(null,panel);
-             //  int a = panel.add(JOptionPane(null,"введите число"));
+             //  int a = panel.insert(JOptionPane(null,"введите число"));
     }
 
     public static int count(int a, int b)

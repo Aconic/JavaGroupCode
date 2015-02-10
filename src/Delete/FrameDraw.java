@@ -6,7 +6,7 @@ public class FrameDraw extends JFrame
 
 	public FrameDraw () 
 	{
-		setTitle ("App for add person");
+		setTitle ("App for insert person");
 		setDefaultCloseOperation (EXIT_ON_CLOSE);
 		setBounds (300, 150, 540, 470);
 		

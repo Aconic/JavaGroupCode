@@ -33,7 +33,7 @@ public class TreeExample extends JFrame
         fruitNode.add(new DefaultMutableTreeNode("Grapes"));
         fruitNode.add(new DefaultMutableTreeNode("Orange"));
 
-        //add the child nodes to the root node
+        //insert the child nodes to the root node
         root.add(vegetableNode);
         root.add(fruitNode);
 
