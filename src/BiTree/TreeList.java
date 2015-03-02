@@ -3,6 +3,8 @@ package BiTree;
 public class TreeList implements ETreeList
 {
     private Node root = null;
+    int[] ar;
+    int index = 0;
 
     class Node
     {
@@ -16,51 +18,52 @@ public class TreeList implements ETreeList
         }
     }
 
-    @Override
-    public void init(int[] ar)
+    public void clear()
     {
-        for (int i = 0; i < ar.length; i++)
+        root  = null;
+    }
+
+    @Override
+    public void init(int[] arIn)
+    {
+        if (arIn.length == 0)
         {
-            insert(root, ar[i]);
+            arIn = new int[0];
+        }
+        for (int i : arIn)
+        {
+            add(i);
         }
     }
 
-
-    private void insert(Node root, int value)
+    ///////////
+    private void addPrivate(Node node, int value)
     {
-
         if (root == null)
         {
             root = new Node(value);
             System.out.println("Корень " + root.value);
             return;
         }
-        if (root.value == value)
+        if (node.value > value)
         {
-            root.value = value;
-        }
-        else if (root.value > value)
-        {
-            if (root.left == null)
+            if (node.left == null)
             {
-                root.left = new Node(value);
-                System.out.println("Корень " + root.value + "left" + value);
+                node.left = new Node(value);
+               // System.out.println("Корень " + node.value + " left " + value);
+            }
+            addPrivate(node.left, value);
+        }
+        else if (node.value < value)
+        {
+            if (node.right == null)
+            {
+                node.right = new Node(value);
+                //System.out.println("Корень " + node.value + " right " + value);
             }
             else
             {
-                insert(root.left, value);
-            }
-        }
-        else if (root.value < value)
-        {
-            if (root.right == null)
-            {
-                root.right = new Node(value);
-                System.out.println("Корень " + root.value + "right" + value);
-            }
-            else
-            {
-                insert(root.right, value);
+                addPrivate(node.right, value);
             }
         }
     }
@@ -68,59 +71,116 @@ public class TreeList implements ETreeList
     @Override
     public void add(int value)
     {
-        insert(root, value);
-
+        addPrivate(root, value);
     }
 
     ///////////
+    private int sizePrivate(Node node)
+    {
+        if (node == null)
+        {
+            return 0;
+        }
+        return (sizePrivate(node.left) + 1 + sizePrivate(node.right));
+    }
+
     @Override
     public int size()
     {
-        int countr = 0;
-        int countl = 0;
-        Node tmp = root;
-        return 0;
+        return sizePrivate(root);
+    }
+
+    private void toArrayPrivate(Node node)
+    {
+
+        if (node.left != null)
+        {
+            toArrayPrivate(node.left);
+        }
+        ar[index++] = node.value;
+        if (node.right != null)
+        {
+            toArrayPrivate(node.right);
+        }
+    }
+
+    @Override
+    public int[] toArray()
+    {
+        if (root == null || size() == 0)
+        {
+            ar = new int[0];
+        }
+        else
+        {
+            ar = new int[size()];
+            toArrayPrivate(root);
+
+        }
+        return ar;
     }
 
 
-    private void showTreePrivate(Node root)
+    private int countLeavesPrivate(Node node)     //кол-во листьев
     {
-        if (root == null)
+        int count = 1;
+        if (node != null)
         {
-            System.out.println("NULL");
+            if (node.left != null && node.right != null)
+            {
+                countLeavesPrivate(node.left);
+                countLeavesPrivate(node.right);
+                count++;
+            }
+        }
+        return count;
+    }
+
+    @Override
+    public int countLeaves()
+    {
+        return (countLeavesPrivate(root));
+    }
+
+    private void showTreePrivate(Node node)
+    {
+        if (node == null)
+        {
             return;
         }
-        String left = (root.left == null ? "нет" : "" + root.left.value);
-        String right = (root.right == null ? "нет" : "" + root.right.value);
-        System.out.println("Корень-  " + root.value + "Левый ребенок - " + left + "Правый ребенок - " + right);
-        showTreePrivate(root.left);
-        showTreePrivate(root.right);
+        String left = (node.left == null ? "нет" : node.left.value + "");
+        String right = (node.right == null ? "нет" : node.right.value + "");
+        System.out.println("Корень-" + node.value + " Левый ребенок-" + left + " Правый ребенок - " + right);
+        showTreePrivate(node.left);
+        showTreePrivate(node.right);
     }
 
+    @Override
     public void showTree()
     {
         showTreePrivate(root);
     }
 
-
-    private void showLeavesPrivate(Node root)
+    private void showLeavesPrivate(Node node)
     {
-        if (root != null)
+        if (node != null)
         {
-            if (root.left == null && root.right == null)
+            if (node.left == null && node.right == null)
             {
-                System.out.println(root.value);
+                System.out.println(node.value);
             }
             else
             {
-                showLeavesPrivate(root.left);
-                showLeavesPrivate(root.right);
+                showLeavesPrivate(node.left);
+                showLeavesPrivate(node.right);
             }
         }
     }
 
+    @Override
     public void showLeaves()
     {
         showLeavesPrivate(root);
     }
 }
+

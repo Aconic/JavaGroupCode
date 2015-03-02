@@ -57,7 +57,6 @@ public class PaintPanel extends JPanel implements MouseListener, MouseMotionList
     {
         super.paint(g);
         g.drawImage(data.img,0,0, 600,400,null);
-
     }
 
 

@@ -3,6 +3,8 @@ package Canvas;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
+import javax.swing.filechooser.FileFilter;
+import javax.swing.filechooser.FileNameExtensionFilter;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -171,11 +173,16 @@ public class Command
         public void actionPerformed(ActionEvent actionEvent)
         {
             JFileChooser fileChooser = new JFileChooser();
+            FileFilter imageFilter = new FileNameExtensionFilter("Image", ImageIO.getReaderFileSuffixes());
+            FileFilter imageFilterJpg = new FileNameExtensionFilter("*.JPG", "jpg");
+            FileFilter imageFilterBmp = new FileNameExtensionFilter("*.BMP", "bmp");
+            fileChooser.setFileFilter(imageFilter);
+            fileChooser.addChoosableFileFilter(imageFilterJpg);
+            fileChooser.addChoosableFileFilter(imageFilterBmp);
             int res = fileChooser.showSaveDialog(null);
             if (res == JFileChooser.APPROVE_OPTION)
             {
-
-                try
+                  try
                 {
                     ImageIO.write(data.img, "JPG", fileChooser.getSelectedFile());
                 } catch (IOException e)

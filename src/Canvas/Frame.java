@@ -10,7 +10,7 @@ public class Frame extends JFrame
      {
          setTitle("Paint");
          setLayout(null);
-         setBounds(200,200,700,500);
+         setBounds(100,100,800,600);
          setDefaultCloseOperation(EXIT_ON_CLOSE);
          setResizable(false);
 

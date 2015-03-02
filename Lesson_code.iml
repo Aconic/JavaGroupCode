@@ -20,6 +20,7 @@
     <orderEntry type="library" name="selenium-java-2.44.01" level="project" />
     <orderEntry type="library" name="libs" level="project" />
     <orderEntry type="library" name="testng-plugin" level="project" />
+    <orderEntry type="library" name="gson-2.3.1" level="project" />
   </component>
 </module>
 
