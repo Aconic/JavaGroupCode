@@ -1,6 +1,9 @@
 package Lesson30;
 
-class Person
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
+public class Person
 {
     private int Id;
     private String FName;
@@ -18,24 +21,20 @@ class Person
         this.LName = LName;
         this.Age = Age;
     }
-    Person(int Id, String FName, String LName, int Age)           // конструктор
+    public Person(int Id, String FName, String LName, int Age)           // конструктор public для XMLEncoder
     {
         this.Id = Id;
         this.FName = FName;
         this.LName = LName;
         this.Age = Age;
     }
-    /*public int getAge()
-    {
 
-        return this.Age;
-    } */
-    /* @Override
+    @Override
     public String toString()
     {
         String str = String.valueOf(Id) + " " + FName + " " + LName + " " + String.valueOf(Age);
         return str;
-    }     */
+    }
 
     public int getId()
     {

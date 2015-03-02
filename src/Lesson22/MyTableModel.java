@@ -31,10 +31,10 @@ public class MyTableModel extends AbstractTableModel
         return 4;
     }
 
-
+    @Override
     public String getColumnName(int column)
     {
-        String[] nameColumn = {"Id", "Fname", "Lname", "Age"};
+        String[] nameColumn = {"Id", "FName", "LName", "Age"};
         return nameColumn[column];
     }
 

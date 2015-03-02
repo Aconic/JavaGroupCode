@@ -218,7 +218,7 @@ public class ExListTest
         xx.toArray();
     }
 
-    /*@Test(expected = ArrayIndexOutOfBoundsException.class)
+    /*@Apps.Test(expected = ArrayIndexOutOfBoundsException.class)
     public void testSort1_0()
     {
         int[] zz = {};
@@ -292,7 +292,7 @@ public class ExListTest
     //======================================
 //Delete End
 //======================================
-  /*  @Test(expected = NullPointerException.class)
+  /*  @Apps.Test(expected = NullPointerException.class)
     public void testDel_0()
     {
         int[] zz = {};
@@ -326,7 +326,7 @@ public class ExListTest
     //======================================
     // addStart
     //======================================
-   /* @Test
+   /* @Apps.Test
     public void testAddStart_0()
     {
         int[] zz = {};

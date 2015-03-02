@@ -18,7 +18,7 @@ public class StatusBar extends JFrame {
     static private int BOR = 10;
 
     public static void createGUI() {
-        final JFrame frame = new JFrame("Test frame");
+        final JFrame frame = new JFrame("Apps.Test frame");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel panel = new JPanel();
