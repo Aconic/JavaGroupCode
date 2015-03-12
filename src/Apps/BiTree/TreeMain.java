@@ -6,7 +6,7 @@ public class TreeMain
     public static void main(String[] args)
     {
         TreeList treeList = new TreeList();
-        int[] ar = {5, 4, 3, 6, 7, 2,5};
+        int[] ar = {5, 4, 3, 56, 17, 2, 99};
         treeList.init(ar);
 
         treeList.showTree();

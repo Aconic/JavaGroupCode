@@ -13,9 +13,10 @@ public class TreeList implements Iterable <Integer>
 
 
     @Override
-    public Iterator iterator()
+    public Iterator<Integer> iterator()
     {
-        return new TreeIterExtern(root);
+       // return new TreeIterIntern(root);
+        return new TreeListIterExtern(toArray());
     }
 
     public class Node
@@ -46,7 +47,6 @@ public class TreeList implements Iterable <Integer>
         {
             add(i);
         }
-        System.out.println("www");
     }
 
     ///////////

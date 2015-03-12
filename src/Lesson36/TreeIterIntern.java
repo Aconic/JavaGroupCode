@@ -2,12 +2,12 @@ package Lesson36;
 
 import java.util.Iterator;
 
-public class TreeIterExtern implements Iterator
+public class TreeIterIntern implements Iterator
 {
     TreeList.Node current;
 
 
-    public TreeIterExtern(TreeList.Node root)
+    public TreeIterIntern(TreeList.Node root)
     {
         current = root;
     }
@@ -23,13 +23,18 @@ public class TreeIterExtern implements Iterator
     {
         while (current != null)
         {
-        current = current.left;
+            current = current.left;
         }
         TreeList.Node node = current;
-        current = current.right;
+        if (current.right != null)
+        {
+            current = current.right;
+        }
         return node;
     }
 
     @Override
-    public void remove() {}
+    public void remove()
+    {
+    }
 }
