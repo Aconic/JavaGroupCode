@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson1/Task1.java" afterPath="$PROJECT_DIR$/src/Lesson1/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RPanel.java" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\ResizablePanel.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Menu.java" afterPath="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Menu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson36/MyIteratorMain.java" afterPath="$PROJECT_DIR$/src/Lesson36/MyIteratorMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java" afterPath="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson36/TreeList.java" afterPath="$PROJECT_DIR$/src/Lesson36/TreeList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Apps/BiTree/TreeMain.java" afterPath="$PROJECT_DIR$/src/Apps/BiTree/TreeMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\TreeIterExtern.java" afterPath="$PROJECT_DIR$/src/Lesson36/TreeIterIntern.java" />
     </list>
     <ignored path="JavaGroupTask.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,13 +22,13 @@
     <file path="/Task.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413399827625" ignored="false" />
     <file path="/Task2.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417364207609" ignored="false" />
     <file path="/Task1.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1418574082671" ignored="false" />
-    <file path="/fragment.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426073260661" ignored="false" />
+    <file path="/fragment.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426156778678" ignored="false" />
     <file path="/Task4.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140867515" ignored="false" />
     <file path="/Task3.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416747819921" ignored="false" />
     <file path="/Task5.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414942078031" ignored="false" />
     <file path="/a.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1417635428078" ignored="false" />
     <file path="/sample.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1413734562031" ignored="false" />
-    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426061400674" ignored="false" />
+    <file path="/Dummy.txt" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426147008093" ignored="false" />
     <file path="/Task3Test.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1416140831921" ignored="false" />
     <file path="/CombinationLockTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349267046" ignored="false" />
     <file path="/CombinationLock.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1414349998046" ignored="false" />
@@ -114,7 +121,7 @@
     <file path="/Menus.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421614699859" ignored="false" />
     <file path="/MenuTop.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422475253312" ignored="false" />
     <file path="/Del.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421333284616" ignored="false" />
-    <file path="/Main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1424553225437" ignored="false" />
+    <file path="/Main.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426098779062" ignored="false" />
     <file path="$PROJECT_DIR$/src/Canvas/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421436363781" ignored="false" />
     <file path="/PanelPaint.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1421525516765" ignored="false" />
     <file path="/DataSet.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1422474030218" ignored="false" />
@@ -180,7 +187,7 @@
     <file path="/pom.xml" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423335702203" ignored="false" />
     <file path="$USER_HOME$/Мои документы/Dropbox/!Code_Rudin/!JavaCode/MavenStart/MavenStart.iml" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423336943625" ignored="false" />
     <file path="/TestParamNG.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423338920937" ignored="false" />
-    <file path="/TreeList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426077250974" ignored="false" />
+    <file path="/TreeList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426100152125" ignored="false" />
     <file path="/ETreeList.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423663843122" ignored="false" />
     <file path="/ETreeListTest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423669471657" ignored="false" />
     <file path="/BsTree.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1423681755390" ignored="false" />
@@ -197,7 +204,7 @@
     <file path="/PanelVector.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425803952515" ignored="false" />
     <file path="/ter.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425388944298" ignored="false" />
     <file path="/Commands.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425394873543" ignored="false" />
-    <file path="/MyIteratorMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426076955848" ignored="false" />
+    <file path="/MyIteratorMain.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426094716546" ignored="false" />
     <file path="/AListIter.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425490229921" ignored="false" />
     <file path="/AListIterExternal.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425491053640" ignored="false" />
     <file path="/AListIterIntern.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425491473093" ignored="false" />
@@ -205,18 +212,28 @@
     <file path="/PFigs.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425747011234" ignored="false" />
     <file path="/PPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425746566781" ignored="false" />
     <file path="/Data.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425996332975" ignored="false" />
-    <file path="/Menu.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425997441137" ignored="false" />
+    <file path="/Menu.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426102931140" ignored="false" />
     <file path="/FileFunc.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425937271718" ignored="false" />
     <file path="/PFrame.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425742620203" ignored="false" />
     <file path="/PButton.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425742091343" ignored="false" />
-    <file path="/PanelFigures.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426001479080" ignored="false" />
+    <file path="/PanelFigures.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426166814264" ignored="false" />
     <file path="/PanelButton.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425982959122" ignored="false" />
     <file path="/FrameVector.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425934180359" ignored="false" />
     <file path="/PanelDraw.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425994521299" ignored="false" />
     <file path="/FrameRoot.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425977511174" ignored="false" />
     <file path="/FileEditFunc.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1425997522426" ignored="false" />
-    <file path="/ResizablePanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426001548962" ignored="false" />
-    <file path="/TreeIterExtern.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426077191684" ignored="false" />
+    <file path="/ResizablePanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426166392884" ignored="false" />
+    <file path="/TreeIterExtern.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426084604171" ignored="false" />
+    <file path="/TreeListIterExtern.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426094824578" ignored="false" />
+    <file path="/Visitor.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426098320890" ignored="false" />
+    <file path="/MainVisitorPattern.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426099925109" ignored="false" />
+    <file path="/ResMidLeft.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426160060513" ignored="false" />
+    <file path="/ResBotLest.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426156758553" ignored="false" />
+    <file path="/ResBotLeft.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426167994675" ignored="false" />
+    <file path="/RMidLeft.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426167941406" ignored="false" />
+    <file path="/RBotLeft.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426166139576" ignored="false" />
+    <file path="/RPanel.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426166363836" ignored="false" />
+    <file path="/RTopLeft.java" changelist="4b7ed1c5-64c1-407d-a3f7-923c7e41040b" time="1426167936458" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,8 +243,8 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="Commander">
     <leftPanel />
-    <rightPanel url="file://$PROJECT_DIR$/src" />
-    <splitter proportion="0.039473683" />
+    <rightPanel class="Lesson38.TreeList" />
+    <splitter proportion="0.0745614" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Lesson_code$PersonMain.coverage" NAME="PersonMain Coverage Results" MODIFIED="1419514406182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -258,6 +275,8 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -292,8 +311,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -308,19 +325,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TreeIterExtern.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson36/TreeIterExtern.java">
+      <file leaf-file-name="RBotLeft.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RBotLeft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="27" selection-start="569" selection-end="569" vertical-scroll-proportion="0.8425926">
+            <state line="19" column="55" selection-start="517" selection-end="517" vertical-scroll-proportion="0.3755523">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyIteratorMain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson36/MyIteratorMain.java">
+      <file leaf-file-name="PanelFigures.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+            <state line="90" column="1" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RMidLeft.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RMidLeft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="7" selection-start="457" selection-end="520" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RTopLeft.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RTopLeft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="54" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="28" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -350,22 +398,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Data.java" />
-        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/FileEditFunc.java" />
-        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Menu.java" />
-        <option value="$PROJECT_DIR$/src/Apps/Test/St.java" />
-        <option value="$PROJECT_DIR$/src/Apps/Test/ResizablePanel.java" />
-        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java" />
-        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/ResizablePanel.java" />
-        <option value="$PROJECT_DIR$/src/Apps/CanvasClassEdition/PaintPanel.java" />
-        <option value="$PROJECT_DIR$/src/Lesson1/Task1.java" />
-        <option value="$PROJECT_DIR$/src/Lesson36/AListMain.java" />
-        <option value="$PROJECT_DIR$/src/Lesson36/BsTree.java" />
-        <option value="$PROJECT_DIR$/src/Lesson36/LListIterIntern.java" />
-        <option value="$PROJECT_DIR$/src/Lesson36/MyIteratorMain.java" />
-        <option value="$PROJECT_DIR$/src/Apps/BiTree/TreeList.java" />
         <option value="$PROJECT_DIR$/src/Lesson36/TreeList.java" />
-        <option value="$PROJECT_DIR$/src/Lesson36/TreeIterExtern.java" />
+        <option value="$PROJECT_DIR$/src/Lesson38/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/Lesson38/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lesson38/TreeList.java" />
+        <option value="$PROJECT_DIR$/src/Lesson38/MainVisitorPattern.java" />
+        <option value="$PROJECT_DIR$/src/Apps/BiTree/TreeMain.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Menu.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/ResBotLest.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/ResizablePanel.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/ResBotLeft.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/ResMidLeft.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RPanel.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RTopLeft.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RMidLeft.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RBotLeft.java" />
       </list>
     </option>
   </component>
@@ -437,6 +485,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -483,7 +532,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson36" />
+              <option name="myItemId" value="Lesson38" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -505,12 +554,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaGroupCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CanvasVectorBeta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -548,11 +618,11 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lesson36" />
       <recent name="Apps.CanvasVectorBeta" />
+      <recent name="Lesson38" />
+      <recent name="Lesson36" />
       <recent name="Apps.Tester" />
       <recent name="Lesson12" />
-      <recent name="CanvasVector" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta" />
@@ -576,51 +646,7 @@
       <recent name="C:\Users\RudinA\Dropbox\!Code_Rudin\!JavaCode\Group\src\Delete" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyIteratorMain">
-    <configuration default="false" name="ResizablePanel" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Apps.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Apps.Test.ResizablePanel" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Lesson_code" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Calc1" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Calc1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Lesson_code" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MainDrawBeta">
     <configuration default="false" name="AppMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -643,14 +669,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MyIteratorMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lesson35.*" />
+          <option name="PATTERN" value="Lesson36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Lesson35.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson36.MyIteratorMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -665,14 +691,64 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="MyIteratorMain" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MainDrawBeta" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lesson36.*" />
+          <option name="PATTERN" value="Apps.CanvasVectorBeta.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Lesson36.MyIteratorMain" />
+      <option name="MAIN_CLASS_NAME" value="Apps.CanvasVectorBeta.MainDrawBeta" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainVisitorPattern" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lesson38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lesson38.MainVisitorPattern" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lesson_code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TreeMain" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Apps.BiTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Apps.BiTree.TreeMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -790,19 +866,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ResizablePanel" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Calc1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AppMain" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyIteratorMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AppMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyIteratorMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainDrawBeta" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainVisitorPattern" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TreeMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyIteratorMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AppMain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Calc1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MainDrawBeta" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TreeMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainVisitorPattern" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyIteratorMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AppMain" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -863,30 +939,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19448946" sideWeight="0.7487923" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7648953" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7648953" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3567447" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.49839914" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29654405" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29431438" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19124797" sideWeight="0.7004831" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19124797" sideWeight="0.69404185" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19263607" sideWeight="0.75139356" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24860647" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24386339" sideWeight="0.78595316" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21404682" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18683083" sideWeight="0.22222222" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.71497583" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.71497583" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3236715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -955,114 +1031,160 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson1/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="59" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson21/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="48" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/ExList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson32/BsTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="22" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/AListIterIntern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="343" selection-end="343" vertical-scroll-proportion="0.5509259">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/LList1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="12" selection-start="182" selection-end="182" vertical-scroll-proportion="0.28858024">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/AList1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="61" selection-end="61" vertical-scroll-proportion="0.026234567">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/AListIterExtern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="384" selection-end="384" vertical-scroll-proportion="0.6558642">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/LListIterIntern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="377" selection-end="377" vertical-scroll-proportion="0.60339504">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson32/BsMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="201" selection-end="378" vertical-scroll-proportion="0.26234567">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/BiTree/ETreeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0787037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Apps/BiTree/TreeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20987654">
+        <state line="135" column="32" selection-start="2717" selection-end="2717" vertical-scroll-proportion="-0.62857145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="-0.80493826">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/TreeList.java">
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/FileEditFunc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="25" selection-start="642" selection-end="642" vertical-scroll-proportion="-3.148148">
+        <state line="5" column="13" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/BiTree/TreeMain.java">
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/MainDrawBeta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="379" selection-end="379" vertical-scroll-proportion="0.41975307">
+        <state line="6" column="89" selection-start="99" selection-end="99" vertical-scroll-proportion="0.25185186">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/MyIteratorMain.java">
+    <entry file="uml://JAVA/Apps.CanvasVectorBeta.PanelFigures">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Apps.CanvasVectorBeta.PanelFigures</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">Apps.CanvasVectorBeta.PanelFigures</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.event.FocusListener</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">javax.swing.JPanel</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">java.util.EventListener</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.awt.event.MouseListener</node>
+            <node x="" y="">java.awt.event.MouseMotionListener</node>
+            <node x="" y="">javax.swing.JComponent</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.863013698630137" x="539.0" y="245.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Apps.CanvasVectorBeta">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Apps.CanvasVectorBeta</OriginalElement>
+          <nodes>
+            <node x="" y="">Apps.CanvasVectorBeta.FileFunc</node>
+            <node x="" y="">Apps.CanvasVectorBeta.ResizablePanel</node>
+            <node x="" y="">Apps.CanvasVectorBeta.PanelFigures</node>
+            <node x="" y="">Apps.CanvasVectorBeta.Data</node>
+            <node x="" y="">Apps.CanvasVectorBeta.Menu</node>
+            <node x="" y="">Apps.CanvasVectorBeta.PanelButton</node>
+            <node x="" y="">Apps.CanvasVectorBeta.MainDrawBeta</node>
+            <node x="" y="">Apps.CanvasVectorBeta.FrameRoot</node>
+            <node x="" y="">Apps.CanvasVectorBeta.PanelDraw</node>
+            <node x="" y="">Apps.CanvasVectorBeta.FileEditFunc</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="507.5" y="343.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+        <state line="25" column="20" selection-start="678" selection-end="678" vertical-scroll-proportion="0.3115693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson36/TreeIterExtern.java">
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="27" selection-start="569" selection-end="569" vertical-scroll-proportion="0.8425926">
+        <state line="11" column="17" selection-start="179" selection-end="179" vertical-scroll-proportion="0.21628499">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson38/TreeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="77" selection-end="77" vertical-scroll-proportion="0.12518409">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson38/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="37" selection-end="37" vertical-scroll-proportion="0.07511046">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson38/MainVisitorPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="33" selection-end="33" vertical-scroll-proportion="0.07511046">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="1" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RTopLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="54" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RMidLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="7" selection-start="457" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apps/CanvasVectorBeta/RBotLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="55" selection-start="517" selection-end="517" vertical-scroll-proportion="0.3755523">
           <folding />
         </state>
       </provider>

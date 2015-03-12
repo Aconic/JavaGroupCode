@@ -141,7 +141,6 @@ public class Menu extends JMenuBar
             {
                 FileEditFunc fileEditFunc = new FileEditFunc(data);
                 fileEditFunc.setLw(5);
-                System.out.println(data.lw);
                }
         });
 
