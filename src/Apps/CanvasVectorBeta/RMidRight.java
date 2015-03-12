@@ -7,19 +7,19 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 
-public class RMidLeft extends JPanel implements MouseMotionListener, MouseListener
+public class RMidRight extends JPanel implements MouseMotionListener, MouseListener
 {
     int mX;
     int mY;
-    private PanelFigures panelFigures;
+    PanelFigures panelFigures;
 
-    public RMidLeft( PanelFigures panelFigures)
+    public RMidRight(PanelFigures panelFigures)
     {
         this.panelFigures = panelFigures;
         setLayout(null);
         setCursor(Cursor.getPredefinedCursor(Cursor.W_RESIZE_CURSOR));
         setBackground(Color.YELLOW);
-        setBounds(0, panelFigures.getHeight() / 2 - 1, 8, 8);
+        setBounds(panelFigures.getWidth()-8, panelFigures.getHeight() / 2 - 1, 8, 8);
         addMouseMotionListener(this);
         addMouseListener(this);
     }
@@ -28,32 +28,37 @@ public class RMidLeft extends JPanel implements MouseMotionListener, MouseListen
     public void mousePressed(MouseEvent e)
     {
         mX = e.getX();
-        mY = e.getY();
     }
 
     @Override
     public void mouseDragged(MouseEvent e)
     {
-        Point pp = panelFigures.getLocation();
-        int dX = e.getX() - mX;
-        pp.translate(dX, 0);
-        panelFigures.setSize(mX - e.getX() + panelFigures.getWidth(), panelFigures.getHeight());
-        panelFigures.setLocation(pp);
+        panelFigures.setSize(e.getX()- mX + panelFigures.getWidth(), panelFigures.getHeight());
      }
 
     @Override
-    public void mouseClicked(MouseEvent e){
+    public void mouseClicked(MouseEvent e)
+    {
     }
+
     @Override
-    public void mouseMoved(MouseEvent e) {
+    public void mouseMoved(MouseEvent e)
+    {
     }
+
     @Override
-    public void mouseReleased(MouseEvent e){
+    public void mouseReleased(MouseEvent e)
+    {
     }
+
     @Override
-    public void mouseEntered(MouseEvent e) { }
+    public void mouseEntered(MouseEvent e)
+    {
+    }
+
     @Override
-    public void mouseExited(MouseEvent e) {
+    public void mouseExited(MouseEvent e)
+    {
     }
 
 }

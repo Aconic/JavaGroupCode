@@ -20,7 +20,6 @@ public class PanelDraw extends JPanel implements MouseListener
         setLayout(null);
         addMouseListener(this);
         setBackground(Color.white.darker());
-
     }
 
       @Override
@@ -40,17 +39,12 @@ public class PanelDraw extends JPanel implements MouseListener
     }
 
     @Override
-    public void mouseClicked(MouseEvent e)
-    {
+    public void mouseClicked(MouseEvent e)     {
     }
-
     @Override
-    public void mouseEntered(MouseEvent e)
-    {
+    public void mouseEntered(MouseEvent e)    {
     }
-
     @Override
-    public void mouseExited(MouseEvent e)
-    {
+    public void mouseExited(MouseEvent e)     {
     }
 }

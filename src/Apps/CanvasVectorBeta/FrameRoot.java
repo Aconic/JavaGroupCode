@@ -8,17 +8,17 @@ public class FrameRoot extends JFrame
     public FrameRoot() throws FileNotFoundException
     {
         setLayout(null);
-        setBounds(100, 100, 600, 400);
+        setBounds(100, 100, 800, 600);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         Data data = new Data();
         JPanel pb = new PanelButton(data);
         JPanel pd = new PanelDraw(data);
         data.panelDraw = (PanelDraw) pd;
-        JMenuBar menuBar = new Menu(data);
+        JMenuBar menuBar = new MenuCommands(data);
 
         pb.setBounds(0, 0, 150, 600);
-        pd.setBounds(150, 0, 600, 600);
+        pd.setBounds(150, 0, 800, 600);
 
         add(pd);
         add(pb);

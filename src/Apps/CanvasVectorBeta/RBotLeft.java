@@ -18,7 +18,7 @@ public class RBotLeft extends JPanel implements MouseMotionListener, MouseListen
           this.panelFigures = panelFigures;
           setLayout(null);
           setCursor(Cursor.getPredefinedCursor(Cursor.SW_RESIZE_CURSOR));
-          setBackground(Color.BLACK);
+          setBackground(Color.YELLOW);
           setBounds(0,panelFigures.getHeight()-8 ,8,8);
           addMouseMotionListener(this);
           addMouseListener(this);
@@ -37,7 +37,7 @@ public class RBotLeft extends JPanel implements MouseMotionListener, MouseListen
         Point pp = panelFigures.getLocation();
         int dX = e.getX() - mX;
         pp.translate(dX, 0);
-        panelFigures.setSize(mX -e.getX()+ panelFigures.getWidth(), e.getY() - mY +panelFigures.getHeight());
+        panelFigures.setSize(mX - e.getX()+ panelFigures.getWidth(), e.getY() - mY + panelFigures.getHeight());
         panelFigures.setLocation(pp);
     }
 

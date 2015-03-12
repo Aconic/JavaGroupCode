@@ -12,7 +12,7 @@ package Apps.TestPP;
 
  PanelPaint panel = new PanelPaint();
  MyMenuItem menuItem = new MyMenuItem(panel);
- menuItem.setText("Menu");
+ menuItem.setText("MenuCommands");
  JMenuBar menuBar = new JMenuBar();
  menuBar.add(menuItem);
  setJMenuBar(menuBar);

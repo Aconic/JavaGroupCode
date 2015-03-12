@@ -7,53 +7,45 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 
-public class RMidLeft extends JPanel implements MouseMotionListener, MouseListener
+public class RTopCentre extends JPanel implements MouseMotionListener, MouseListener
 {
-    int mX;
-    int mY;
     private PanelFigures panelFigures;
+    int mY;
 
-    public RMidLeft( PanelFigures panelFigures)
+    public RTopCentre(PanelFigures panelFigures)
     {
         this.panelFigures = panelFigures;
         setLayout(null);
-        setCursor(Cursor.getPredefinedCursor(Cursor.W_RESIZE_CURSOR));
+        setCursor(Cursor.getPredefinedCursor(Cursor.N_RESIZE_CURSOR));
         setBackground(Color.YELLOW);
-        setBounds(0, panelFigures.getHeight() / 2 - 1, 8, 8);
+        setBounds(panelFigures.getWidth()/2 - 2, 0, 8, 8);
         addMouseMotionListener(this);
         addMouseListener(this);
     }
-
     @Override
     public void mousePressed(MouseEvent e)
     {
-        mX = e.getX();
         mY = e.getY();
     }
 
     @Override
     public void mouseDragged(MouseEvent e)
     {
+        int dY = e.getY() - mY;
         Point pp = panelFigures.getLocation();
-        int dX = e.getX() - mX;
-        pp.translate(dX, 0);
-        panelFigures.setSize(mX - e.getX() + panelFigures.getWidth(), panelFigures.getHeight());
+        pp.translate(0,dY);
+        panelFigures.setSize(panelFigures.getWidth(), mY - e.getY()  +  panelFigures.getHeight());
         panelFigures.setLocation(pp);
-     }
-
-    @Override
-    public void mouseClicked(MouseEvent e){
-    }
-    @Override
-    public void mouseMoved(MouseEvent e) {
-    }
-    @Override
-    public void mouseReleased(MouseEvent e){
-    }
-    @Override
-    public void mouseEntered(MouseEvent e) { }
-    @Override
-    public void mouseExited(MouseEvent e) {
     }
 
+    @Override
+    public void mouseClicked(MouseEvent e){}
+    @Override
+    public void mouseMoved(MouseEvent e){}
+    @Override
+    public void mouseReleased(MouseEvent e) {}
+    @Override
+    public void mouseEntered(MouseEvent e) {}
+    @Override
+    public void mouseExited(MouseEvent e)  {}
 }

@@ -88,26 +88,20 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
         {
             remove(i);
         }
-         repaint();
+        setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
+        repaint();
     }
 
     @Override
-    public void mouseEntered(MouseEvent e)
-    {    }
-
-    @Override
     public void mouseClicked(MouseEvent e)
-    {    }
+    {setCursor(Cursor.getPredefinedCursor(Cursor.MOVE_CURSOR));    }
 
     @Override
-    public void mouseExited(MouseEvent e)
-    {   }
-
+    public void mouseEntered(MouseEvent e){}
     @Override
-    public void mouseMoved(MouseEvent e)
-    {    }
-
+    public void mouseExited(MouseEvent e){}
     @Override
-    public void mouseReleased(MouseEvent e)
-    {    }
+    public void mouseMoved(MouseEvent e){}
+    @Override
+    public void mouseReleased(MouseEvent e){}
 }

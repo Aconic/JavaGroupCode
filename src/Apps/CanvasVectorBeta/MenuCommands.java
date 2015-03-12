@@ -11,7 +11,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Menu extends JMenuBar
+public class MenuCommands extends JMenuBar
 {
     JMenu fileMenu;
     JMenu fileEdit;
@@ -20,12 +20,13 @@ public class Menu extends JMenuBar
     JMenu fileColorMenu;
     JMenuItem fileColorItemRed;
     JMenuItem fileColorItemGreen;
+    JMenuItem fileColorItemBlue;
     JMenu fileLineMenu;
     JMenuItem fileLineItem_1;
     JMenuItem fileLineItem_5;
     Data data;
 
-    public Menu(Data d) throws FileNotFoundException
+    public MenuCommands(Data d) throws FileNotFoundException
     {
         this.data =d;
         fileMenu = new JMenu(" File");
@@ -35,6 +36,7 @@ public class Menu extends JMenuBar
         fileColorMenu = new JMenu("Color");
         fileColorItemRed = new JMenuItem("Red");
         fileColorItemGreen = new JMenuItem("Green");
+        fileColorItemBlue = new JMenuItem("Blue");
         fileLineMenu = new JMenu("Line W");
         fileLineItem_1 = new JMenuItem(" 1 ");
         fileLineItem_5 = new JMenuItem(" 5 ");
@@ -44,6 +46,7 @@ public class Menu extends JMenuBar
 
         fileColorMenu.add(fileColorItemRed);
         fileColorMenu.add(fileColorItemGreen);
+        fileColorMenu.add(fileColorItemBlue);
 
         fileLineMenu.add(fileLineItem_1);
         fileLineMenu.add(fileLineItem_5);
@@ -74,11 +77,13 @@ public class Menu extends JMenuBar
                     {
                         file = new File(fileChooser.getSelectedFile().getAbsolutePath() + ".xml");
                         fileFunc = new FileFunc();
+
                         ArrayList<PanelFigures> listFigs = new ArrayList<>();
                         for (Component cc : data.panelDraw.getComponents())
                         {
                             PanelFigures pf = (PanelFigures) cc;
                             listFigs.add(pf);
+                            System.out.println(listFigs.toString());
                         }
                         fileFunc.fileSave(file, listFigs);
 
@@ -144,6 +149,37 @@ public class Menu extends JMenuBar
                }
         });
 
+        fileColorItemRed.addActionListener(new ActionListener()
+        {
+            @Override
+            public void actionPerformed(ActionEvent e)
+            {
+                FileEditFunc fileEditFunc = new FileEditFunc(data);
+                fileEditFunc.setColor(Color.red);
+            }
+        });
+
+
+        fileColorItemGreen.addActionListener(new ActionListener()
+        {
+            @Override
+            public void actionPerformed(ActionEvent e)
+            {
+                FileEditFunc fileEditFunc = new FileEditFunc(data);
+                fileEditFunc.setColor(Color.GREEN);
+            }
+        });
+
+
+        fileColorItemBlue.addActionListener(new ActionListener()
+        {
+            @Override
+            public void actionPerformed(ActionEvent e)
+            {
+                FileEditFunc fileEditFunc = new FileEditFunc(data);
+                fileEditFunc.setColor(Color.BLUE);
+            }
+        });
 
     }
 }
