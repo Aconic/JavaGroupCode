@@ -9,7 +9,7 @@ public class FrameRoot extends JFrame
     {
         setLayout(null);
         setBounds(100, 100, 800, 600);
-        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+
 
         Data data = new Data();
         JPanel pb = new PanelButton(data);
@@ -25,6 +25,7 @@ public class FrameRoot extends JFrame
 
         setJMenuBar(menuBar);
         setVisible(true);
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
      }
 
 }

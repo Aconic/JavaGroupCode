@@ -7,7 +7,7 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 
-public class RBotCentre extends JPanel implements MouseMotionListener, MouseListener
+public class RBotCentre extends JPanel implements MouseMotionListener, MouseListener,SizeMoveListener
 {
     PanelFigures panelFigures;
     int mY;
@@ -18,7 +18,7 @@ public class RBotCentre extends JPanel implements MouseMotionListener, MouseList
         setLayout(null);
         setCursor(Cursor.getPredefinedCursor(Cursor.S_RESIZE_CURSOR));
         setBackground(Color.YELLOW);
-        setBounds(panelFigures.getWidth()/2 -2, panelFigures.getHeight() - 8, 8, 8);
+        setBounds(panelFigures.getWidth()/2 - 4, panelFigures.getHeight() - 8, 8, 8);
         addMouseMotionListener(this);
         addMouseListener(this);
     }
@@ -35,13 +35,25 @@ public class RBotCentre extends JPanel implements MouseMotionListener, MouseList
     }
 
     @Override
-    public void mouseClicked(MouseEvent e)      {    }
+    public void checkMove()
+    {
+        JPanel parent = (JPanel) getParent();
+        this.setLocation(parent.getWidth()/2 - 4, parent.getHeight() - 8);
+    }
+
     @Override
-    public void mouseMoved(MouseEvent e)        {    }
+    public void mouseClicked(MouseEvent e)      {
+    }
     @Override
-    public void mouseReleased(MouseEvent e)       {     }
+    public void mouseMoved(MouseEvent e)        {
+    }
     @Override
-    public void mouseEntered(MouseEvent e)      {     }
+    public void mouseReleased(MouseEvent e)       {
+    }
     @Override
-    public void mouseExited(MouseEvent e)      {    }
+    public void mouseEntered(MouseEvent e)      {
+    }
+    @Override
+    public void mouseExited(MouseEvent e)      {
+    }
 }

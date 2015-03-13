@@ -7,10 +7,9 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 
-public class RMidRight extends JPanel implements MouseMotionListener, MouseListener
+public class RMidRight extends JPanel implements MouseMotionListener, MouseListener, SizeMoveListener
 {
     int mX;
-    int mY;
     PanelFigures panelFigures;
 
     public RMidRight(PanelFigures panelFigures)
@@ -19,7 +18,7 @@ public class RMidRight extends JPanel implements MouseMotionListener, MouseListe
         setLayout(null);
         setCursor(Cursor.getPredefinedCursor(Cursor.W_RESIZE_CURSOR));
         setBackground(Color.YELLOW);
-        setBounds(panelFigures.getWidth()-8, panelFigures.getHeight() / 2 - 1, 8, 8);
+        setBounds(panelFigures.getWidth()- 8, panelFigures.getHeight()/2 - 4, 8, 8);
         addMouseMotionListener(this);
         addMouseListener(this);
     }
@@ -34,31 +33,32 @@ public class RMidRight extends JPanel implements MouseMotionListener, MouseListe
     public void mouseDragged(MouseEvent e)
     {
         panelFigures.setSize(e.getX()- mX + panelFigures.getWidth(), panelFigures.getHeight());
-     }
-
-    @Override
-    public void mouseClicked(MouseEvent e)
-    {
     }
 
     @Override
-    public void mouseMoved(MouseEvent e)
+    public void checkMove()
     {
+        JPanel parent = (JPanel) getParent();
+        this.setLocation(parent.getWidth()-8, parent.getHeight()/2 - 4);
     }
 
-    @Override
-    public void mouseReleased(MouseEvent e)
-    {
-    }
 
     @Override
-    public void mouseEntered(MouseEvent e)
-    {
-    }
+    public void mouseClicked(MouseEvent e)    {
 
+    }
     @Override
-    public void mouseExited(MouseEvent e)
-    {
+    public void mouseMoved(MouseEvent e)     {
+
+    }
+    @Override
+    public void mouseReleased(MouseEvent e)    {
+    }
+    @Override
+    public void mouseEntered(MouseEvent e) {
+    }
+    @Override
+    public void mouseExited(MouseEvent e)    {
     }
 
 }

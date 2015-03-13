@@ -7,9 +7,9 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 
-public class RTopCentre extends JPanel implements MouseMotionListener, MouseListener
+public class RTopCentre extends JPanel implements MouseMotionListener, MouseListener,SizeMoveListener
 {
-    private PanelFigures panelFigures;
+    PanelFigures panelFigures;
     int mY;
 
     public RTopCentre(PanelFigures panelFigures)
@@ -18,7 +18,7 @@ public class RTopCentre extends JPanel implements MouseMotionListener, MouseList
         setLayout(null);
         setCursor(Cursor.getPredefinedCursor(Cursor.N_RESIZE_CURSOR));
         setBackground(Color.YELLOW);
-        setBounds(panelFigures.getWidth()/2 - 2, 0, 8, 8);
+        setBounds(panelFigures.getWidth()/2 - 4, 0, 8, 8);
         addMouseMotionListener(this);
         addMouseListener(this);
     }
@@ -36,6 +36,13 @@ public class RTopCentre extends JPanel implements MouseMotionListener, MouseList
         pp.translate(0,dY);
         panelFigures.setSize(panelFigures.getWidth(), mY - e.getY()  +  panelFigures.getHeight());
         panelFigures.setLocation(pp);
+    }
+
+    @Override
+    public void checkMove()
+    {
+        JPanel parent = (JPanel) getParent();
+        this.setLocation(parent.getWidth()/2 - 4, 0);
     }
 
     @Override

@@ -1,11 +1,9 @@
 package Apps.CanvasVectorBeta;
 
-import javax.swing.*;
-
-public class RPanel extends JPanel
+public class RContainer //extends JPanel
 {
 
-    public RPanel(PanelFigures panelFigures)
+    public RContainer(PanelFigures panelFigures)
     {
         RTopLeft rTopLeft = new RTopLeft(panelFigures);
         RMidLeft rMidLeft = new RMidLeft(panelFigures);
@@ -28,5 +26,16 @@ public class RPanel extends JPanel
 
         panelFigures.add(rTopCentre);
         panelFigures.add(rBotCentre);
+
+        panelFigures.addSizeChangeListener(rTopLeft);
+        panelFigures.addSizeChangeListener(rMidLeft);
+        panelFigures.addSizeChangeListener(rBotLeft);
+
+        panelFigures.addSizeChangeListener(rTopRight);
+        panelFigures.addSizeChangeListener(rMidRight);
+        panelFigures.addSizeChangeListener(rBotRight);
+
+        panelFigures.addSizeChangeListener(rTopCentre);
+        panelFigures.addSizeChangeListener(rBotCentre);
     }
 }

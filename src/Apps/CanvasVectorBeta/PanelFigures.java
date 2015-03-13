@@ -4,8 +4,9 @@ package Apps.CanvasVectorBeta;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.util.ArrayList;
 
-public class PanelFigures extends JPanel implements MouseListener, MouseMotionListener, FocusListener
+public class PanelFigures extends JPanel implements MouseListener, MouseMotionListener, FocusListener, ComponentListener
 {
     int mX;
     int mY;
@@ -13,6 +14,8 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
     int check;
     int lw;
     Color color;
+
+    ArrayList<SizeMoveListener> sml = new ArrayList<SizeMoveListener>();
 
     public PanelFigures(Data data)
     {
@@ -25,6 +28,20 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
         addMouseMotionListener(this);
         addMouseListener(this);
         addFocusListener(this);
+        addComponentListener(this);
+    }
+
+    public void addSizeChangeListener(SizeMoveListener ss)
+    {
+        sml.add(ss);
+    }
+
+    public void SizeChangeAction()
+    {
+        for(SizeMoveListener s : sml )
+        {
+            s.checkMove();
+        }
     }
 
     @Override
@@ -69,6 +86,7 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
         Point pp = getLocation();
         pp.translate(dx, dy);
         setLocation(pp);
+        repaint();
     }
 
     @Override
@@ -76,7 +94,7 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
     {
         setOpaque(true);
         setBackground(Color.lightGray);
-        add(new RPanel(this));
+        new RContainer(this);
         repaint();
     }
 
@@ -89,12 +107,27 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
             remove(i);
         }
         setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
+        sml.removeAll(sml);
         repaint();
     }
 
     @Override
+    public void componentResized(ComponentEvent e)
+    {
+        SizeChangeAction();
+    }
+
+    @Override
+    public void componentMoved(ComponentEvent e)
+    {
+        SizeChangeAction();
+    }
+
+    @Override
     public void mouseClicked(MouseEvent e)
-    {setCursor(Cursor.getPredefinedCursor(Cursor.MOVE_CURSOR));    }
+    {
+        setCursor(Cursor.getPredefinedCursor(Cursor.MOVE_CURSOR));
+    }
 
     @Override
     public void mouseEntered(MouseEvent e){}
@@ -103,5 +136,20 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
     @Override
     public void mouseMoved(MouseEvent e){}
     @Override
-    public void mouseReleased(MouseEvent e){}
+    public void mouseReleased(MouseEvent e){
+    }
+
+
+
+    @Override
+    public void componentShown(ComponentEvent e)
+    {
+        //To change body of implemented methods use File | Settings | File Templates.
+    }
+
+    @Override
+    public void componentHidden(ComponentEvent e)
+    {
+        //To change body of implemented methods use File | Settings | File Templates.
+    }
 }

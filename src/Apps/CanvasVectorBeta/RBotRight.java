@@ -7,7 +7,7 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 
-public class RBotRight extends JPanel implements MouseMotionListener, MouseListener
+public class RBotRight extends JPanel implements MouseMotionListener, MouseListener, SizeMoveListener
 {
     int mX;
     int mY;
@@ -19,7 +19,7 @@ public class RBotRight extends JPanel implements MouseMotionListener, MouseListe
         setLayout(null);
         setCursor(Cursor.getPredefinedCursor(Cursor.SE_RESIZE_CURSOR));
         setBackground(Color.YELLOW);
-        setBounds(panelFigures.getWidth()-8, panelFigures.getHeight()-8, 8, 8);
+        setBounds(panelFigures.getWidth() - 8, panelFigures.getHeight() - 8, 8, 8);
         addMouseMotionListener(this);
         addMouseListener(this);
     }
@@ -34,7 +34,14 @@ public class RBotRight extends JPanel implements MouseMotionListener, MouseListe
     @Override
     public void mouseDragged(MouseEvent e)
     {
-       panelFigures.setSize(e.getX() - mX + panelFigures.getWidth(), e.getY() - mY + panelFigures.getHeight());
+        panelFigures.setSize(e.getX() - mX + panelFigures.getWidth(), e.getY() - mY + panelFigures.getHeight());
+    }
+
+    @Override
+    public void checkMove()
+    {
+        JPanel parent = (JPanel) getParent();
+        this.setLocation(parent.getWidth() - 8, parent.getHeight() - 8);
     }
 
     @Override
@@ -61,4 +68,5 @@ public class RBotRight extends JPanel implements MouseMotionListener, MouseListe
     public void mouseExited(MouseEvent e)
     {
     }
+
 }

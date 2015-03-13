@@ -2,10 +2,7 @@ package Lesson35;
 
 import java.util.Comparator;
 
-/**
- * Date: 01.03.15 * Time: 17:01
- * To change this template use File | Settings | File Templates.
- */
+
 public class PersonByFName implements Comparator<Person>
 {
 
