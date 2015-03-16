@@ -11,7 +11,7 @@ public class MyIteratorMain
 //     linkedList.init(arr);
 
      TreeList treeList = new TreeList();
-     int[] ar = {50, 40, 33, 66, 77, 20,5, 108};
+     int[] ar = {51, 40, 33, 66, 77, 20,5, 62,23};
      treeList.init(ar);
 
 

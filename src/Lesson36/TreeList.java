@@ -13,10 +13,10 @@ public class TreeList implements Iterable <Integer>
 
 
     @Override
-    public Iterator<Integer> iterator()
+    public Iterator <Integer> iterator()
     {
-       // return new TreeIterIntern(root);
-        return new TreeListIterExtern(toArray());
+        return new TreeIntern(root);
+     //return new TreeExtern(toArray());
     }
 
     public class Node
@@ -24,10 +24,13 @@ public class TreeList implements Iterable <Integer>
         Node left;
         Node right;
         int value;
+        Node parent;
+        Boolean isVisited = false;
 
-        public Node(int value)
+        public Node(int value, Node parent)
         {
             this.value = value;
+            this.parent = parent;
         }
     }
 
@@ -54,15 +57,15 @@ public class TreeList implements Iterable <Integer>
     {
         if (root == null)
         {
-            root = new Node(value);
-            System.out.println("Корень " + root.value);
+            root = new Node(value, null);
+          //  System.out.println("Корень " + root.value);
             return;
         }
         if (node.value > value)
         {
             if (node.left == null)
             {
-                node.left = new Node(value);
+                node.left = new Node(value, node);
                 // System.out.println("Корень " + node.value + " left " + value);
             }
             addPrivate(node.left, value);
@@ -71,7 +74,7 @@ public class TreeList implements Iterable <Integer>
         {
             if (node.right == null)
             {
-                node.right = new Node(value);
+                node.right = new Node(value, node);
                 //System.out.println("Корень " + node.value + " right " + value);
             }
             else
@@ -80,7 +83,6 @@ public class TreeList implements Iterable <Integer>
             }
         }
     }
-
 
     public void add(int value)
     {
