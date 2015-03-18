@@ -8,8 +8,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
 
 public class MenuCommands extends JMenuBar
 {
@@ -28,7 +28,7 @@ public class MenuCommands extends JMenuBar
 
     public MenuCommands(Data d) throws FileNotFoundException
     {
-        this.data =d;
+        this.data = d;
         fileMenu = new JMenu(" File");
         fileEdit = new JMenu("Edit");
         fileOpenItem = new JMenuItem(" Open");
@@ -66,28 +66,41 @@ public class MenuCommands extends JMenuBar
                 FileFunc fileFunc;
                 File file;
                 JFileChooser fileChooser = new JFileChooser();
-                FileFilter filter = new FileNameExtensionFilter("*.XML", "xml");
-                fileChooser.setFileFilter(filter);
-                fileChooser.addChoosableFileFilter(filter);
+                FileFilter filterXML = new FileNameExtensionFilter("*.XML", "*.xml");
+                FileFilter filterJSON = new FileNameExtensionFilter("*.JSON", "*.json");
+                fileChooser.setFileFilter(filterXML);
+                fileChooser.addChoosableFileFilter(filterXML);
+                fileChooser.addChoosableFileFilter(filterJSON);
                 int res = fileChooser.showSaveDialog(null);
 
                 if (res == JFileChooser.APPROVE_OPTION)
                 {
                     try
                     {
-                        file = new File(fileChooser.getSelectedFile().getAbsolutePath() + ".xml");
                         fileFunc = new FileFunc();
-
                         ArrayList<PanelFigures> listFigs = new ArrayList<>();
                         for (Component cc : data.panelDraw.getComponents())
                         {
                             PanelFigures pf = (PanelFigures) cc;
                             listFigs.add(pf);
-                            System.out.println(listFigs.toString());
                         }
-                        fileFunc.fileSave(file, listFigs);
 
-                    } catch (FileNotFoundException e1)
+                        String extension = fileChooser.getFileFilter().getDescription();
+                        String ext = "";
+                        System.out.println(extension);
+                        if (extension.equals("*.XML"))
+                        {
+                            ext = ".xml";
+                            file = new File(fileChooser.getSelectedFile().getAbsolutePath() + ext);
+                            fileFunc.fileXMLSave(file, listFigs);
+                        }
+                        if (extension.equals("*.JSON"))
+                        {
+                            ext = ".json";
+                            file = new File(fileChooser.getSelectedFile().getAbsolutePath() + ext);
+                            fileFunc.fileJsonSave(file, listFigs);
+                        }
+                    } catch (IOException | IllegalAccessException e1)
                     {
                         e1.printStackTrace();
                     }
@@ -100,28 +113,36 @@ public class MenuCommands extends JMenuBar
             @Override
             public void actionPerformed(ActionEvent e)
             {
-
                 FileFunc fileFunc = new FileFunc();
                 JFileChooser fileChooser = new JFileChooser();
-                FileFilter filter = new FileNameExtensionFilter("*.XML", "xml");
-                fileChooser.addChoosableFileFilter(filter);
-                fileChooser.setFileFilter(filter);
+
                 int res = fileChooser.showOpenDialog(null);
+
                 if (res == JFileChooser.APPROVE_OPTION)
                 {
                     String filename = String.valueOf(fileChooser.getSelectedFile());
+                    File file = fileChooser.getSelectedFile();
+                    System.out.println(file.getAbsolutePath());
                     try
                     {
-                        List<PanelFigures> fList = fileFunc.fileRead(filename);
+                        ArrayList<PanelFigures> fList = new ArrayList<>();
+
+                        if (file.getAbsolutePath().endsWith(".xml"))
+                        {
+                            fList = fileFunc.fileXMLRead(filename);
+                        }
+                        if (file.getAbsolutePath().endsWith(".json"))
+                        {
+                            fList = (ArrayList<PanelFigures>) fileFunc.fileJsonRead(filename);
+                        }
+
                         for (PanelFigures c : fList)
                         {
                             data.panelDraw.add(c);
-                            System.out.println(c.getBounds());
-                            System.out.println(c.toString());
                         }
                         data.panelDraw.repaint();
 
-                    } catch (FileNotFoundException e1)
+                    } catch (Exception e1)
                     {
                         e1.printStackTrace();
                     }
@@ -136,7 +157,7 @@ public class MenuCommands extends JMenuBar
             {
                 FileEditFunc fileEditFunc = new FileEditFunc(data);
                 fileEditFunc.setLw(1);
-                }
+            }
         });
 
         fileLineItem_5.addActionListener(new ActionListener()
@@ -146,7 +167,7 @@ public class MenuCommands extends JMenuBar
             {
                 FileEditFunc fileEditFunc = new FileEditFunc(data);
                 fileEditFunc.setLw(5);
-               }
+            }
         });
 
         fileColorItemRed.addActionListener(new ActionListener()

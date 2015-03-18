@@ -10,12 +10,16 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
 {
     int mX;
     int mY;
+
     Data data;
     int check;
     int lw;
     Color color;
 
     ArrayList<SizeMoveListener> sml = new ArrayList<SizeMoveListener>();
+
+    public PanelFigures()
+        {}
 
     public PanelFigures(Data data)
     {
@@ -31,17 +35,22 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
         addComponentListener(this);
     }
 
-    public void addSizeChangeListener(SizeMoveListener ss)
-    {
-        sml.add(ss);
-    }
-
     public void SizeChangeAction()
     {
         for(SizeMoveListener s : sml )
         {
             s.checkMove();
         }
+    }
+
+    public void addSizeChangeListener(SizeMoveListener ss)
+    {
+        sml.add(ss);
+    }
+
+    public void removeSizeChangeListener(ArrayList<SizeMoveListener> sml)
+    {
+        sml.removeAll(sml);
     }
 
     @Override
@@ -107,7 +116,7 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
             remove(i);
         }
         setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
-        sml.removeAll(sml);
+        removeSizeChangeListener(sml);
         repaint();
     }
 
@@ -138,18 +147,12 @@ public class PanelFigures extends JPanel implements MouseListener, MouseMotionLi
     @Override
     public void mouseReleased(MouseEvent e){
     }
-
-
-
     @Override
-    public void componentShown(ComponentEvent e)
-    {
-        //To change body of implemented methods use File | Settings | File Templates.
+    public void componentShown(ComponentEvent e)  {
+
     }
+     @Override
+    public void componentHidden(ComponentEvent e) {
 
-    @Override
-    public void componentHidden(ComponentEvent e)
-    {
-        //To change body of implemented methods use File | Settings | File Templates.
     }
 }
