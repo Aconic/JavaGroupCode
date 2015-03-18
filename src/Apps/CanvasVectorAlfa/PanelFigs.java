@@ -114,6 +114,7 @@ public class PanelFigs extends JPanel implements MouseListener, MouseMotionListe
         {
             case 1:
                 g.drawRect(1, 1, getWidth() -2, getHeight() - 2);
+                System.out.println("qwee");
                 break;
             case 2:
                 g.drawOval(0, 0, getWidth()-1, getHeight()-1);

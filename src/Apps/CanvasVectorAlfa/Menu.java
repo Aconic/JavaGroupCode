@@ -86,7 +86,7 @@ public class Menu extends JMenuBar
                         List<PanelFigs> fList =  fileFunc.fileRead(filename);
                         for (PanelFigs c : fList)
                         {
-                           data.panelVector.add(c);
+                            data.panelVector.add(c);
                             System.out.println(c.getBounds());
                             System.out.println(c.toString());
                          }

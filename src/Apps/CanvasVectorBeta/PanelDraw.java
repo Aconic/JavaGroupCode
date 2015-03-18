@@ -22,6 +22,13 @@ public class PanelDraw extends JPanel implements MouseListener
         setBackground(Color.white.darker());
     }
 
+    @Override
+    public void paint(Graphics g)
+    {
+        super.paint(g);
+    }
+
+
       @Override
     public void mousePressed(MouseEvent e)
     {
