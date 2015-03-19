@@ -23,7 +23,7 @@ public class BtnPanel extends JPanel
         func = new PersonFunctions();
         btnAdd = new JButton("Add");
         btnUpdate = new JButton("Update");
-        btnDelete = new JButton("Delete");
+        btnDelete = new JButton("Apps/AlphaVersions/Delete");
         btnAdd.setBounds(20, 230, 80, 25);
         btnUpdate.setBounds(20, 370, 80, 25);
         btnDelete.setBounds(20, 310, 80, 25);

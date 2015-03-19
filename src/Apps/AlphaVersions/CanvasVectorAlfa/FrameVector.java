@@ -1,11 +1,11 @@
-package Apps.CanvasVectorAlfa;
+package Apps.AlphaVersions.CanvasVectorAlfa;
 
 import javax.swing.*;
 import java.io.FileNotFoundException;
 
-public class VectorFrame extends JFrame
+public class FrameVector extends JFrame
 {
-    public VectorFrame() throws FileNotFoundException
+    public FrameVector() throws FileNotFoundException
     {
         setLayout(null);
         setBounds(100, 100, 600, 400);

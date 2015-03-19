@@ -22,7 +22,7 @@ public class DbPanel extends JPanel
     {
         btnAdd = new JButton("Add");
         btnUpdate = new JButton("Update");
-        btnDelete = new JButton("Delete");
+        btnDelete = new JButton("Apps.AlphaVersions.Delete");
         btnAdd.setBounds(20, 20, 80, 20);
         btnUpdate.setBounds(20, 120, 80, 20);
         btnDelete.setBounds(20, 220, 80, 20);

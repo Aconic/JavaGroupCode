@@ -1,4 +1,4 @@
-package Apps.CanvasVectorAlfa;
+package Apps.AlphaVersions.CanvasVectorAlfa;
 
 import java.io.FileNotFoundException;
 
@@ -10,6 +10,6 @@ public class MainVector
 {
     public static void main(String[]args) throws FileNotFoundException
     {
-        new VectorFrame();
+        new FrameVector();
     }
 }

@@ -23,9 +23,7 @@ public class FileJson
     public void readJson(String filename) throws Exception
     {
         BufferedReader br = new BufferedReader(new FileReader(filename));
-        List<Person> personList = gson.fromJson(br, new com.google.gson.reflect.TypeToken<List<Person>>()
-        {
-        }.getType());
+        List<Person> personList = gson.fromJson(String.valueOf(br), new com.google.gson.reflect.TypeToken<List<Person>>()         {         }.getType());
         for (Person person : personList)
         {
             System.out.println(person.getId() + " " + person.getFName()+ " " +  person.getLName()+ " " + person.getAge());

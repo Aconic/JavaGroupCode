@@ -34,7 +34,7 @@ public class PersonPanel extends JPanel
         btnCanc = new JButton("Cancel");
         btnAdd = new JButton("Add");
         btnUpdate = new JButton("Update");
-        btnDelete = new JButton("Delete");
+        btnDelete = new JButton("Apps/AlphaVersions/Delete");
         lbId = new JLabel("Id");
         lbFname = new JLabel("Fname");
         lbLname = new JLabel("Lname");
@@ -182,16 +182,16 @@ public class PersonPanel extends JPanel
                     func.deletePerson(np);
                 } catch (SQLException e)
                 {
-                    e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                    e.printStackTrace();
                 } catch (ClassNotFoundException e)
                 {
-                    e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                    e.printStackTrace();
                 } catch (IllegalAccessException e)
                 {
-                    e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                    e.printStackTrace();
                 } catch (InstantiationException e)
                 {
-                    e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+                    e.printStackTrace();
                 }
                 idField.setText(null);
 

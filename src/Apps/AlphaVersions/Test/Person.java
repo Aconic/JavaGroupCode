@@ -1,4 +1,4 @@
-package Apps.Test;
+package Apps.AlphaVersions.Test;
 
 /**
  * Date: 30.11.14 * Time: 16:44

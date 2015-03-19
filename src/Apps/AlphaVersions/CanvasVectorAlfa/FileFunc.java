@@ -1,4 +1,4 @@
-package Apps.CanvasVectorAlfa;
+package Apps.AlphaVersions.CanvasVectorAlfa;
 
 
 import java.beans.XMLDecoder;

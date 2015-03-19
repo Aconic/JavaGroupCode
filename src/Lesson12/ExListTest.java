@@ -13,7 +13,7 @@ public class ExListTest
     // max
     //======================================
 
-  /*  @Apps.Test(expected = IllegalArgumentException.class)
+  /*  @Apps.AlphaVersions.Test(expected = IllegalArgumentException.class)
     public void testMax_0()
     {
         int[] zz = {};
@@ -324,9 +324,9 @@ public class ExListTest
     }
 
     //======================================
-//Delete End
+//Apps.AlphaVersions.Delete End
 //======================================
-  /*  @Apps.Test(expected = NullPointerException.class)
+  /*  @Apps.AlphaVersions.Test(expected = NullPointerException.class)
     public void testDel_0()
     {
         int[] zz = {};
@@ -459,7 +459,7 @@ public class ExListTest
     // addPos
     //======================================
 
-    /*@Apps.Test(expected = IndexOutOfBoundsException.class)
+    /*@Apps.AlphaVersions.Test(expected = IndexOutOfBoundsException.class)
     public void testAddPos_out()
     {     ExList xx = new AList2();
         int[] zz = {10};
@@ -504,7 +504,7 @@ public class ExListTest
     // delPos
     //======================================
 
-    /*@Apps.Test(expected = IndexOutOfBoundsException.class)
+    /*@Apps.AlphaVersions.Test(expected = IndexOutOfBoundsException.class)
     public void testDelPos_out()
     {
         int[] zz = {10};

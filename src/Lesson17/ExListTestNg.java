@@ -1,7 +1,11 @@
 package Lesson17;
 
+
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import static org.testng.AssertJUnit.assertEquals;
 
 public class ExListTestNg
 {
@@ -17,7 +21,7 @@ public class ExListTestNg
             int[] zz = {10};
             xx.init(zz);
             int res = xx.maxOfArray();
-            Assert.assertEquals(res,10);
+            assertEquals(res,10);
         }
 
         @Test
@@ -192,7 +196,7 @@ public class ExListTestNg
             xx.toArray();
         }
 
-    /*@Apps.Test(expected = ArrayIndexOutOfBoundsException.class)
+    /*@Apps.AlphaVersions.Test(expected = ArrayIndexOutOfBoundsException.class)
     public void testSort1_0()
     {
         int[] zz = {};
@@ -264,9 +268,9 @@ public class ExListTestNg
         }
 
         //======================================
-//Delete End
+//Apps.AlphaVersions.Delete End
 //======================================
-  /*  @Apps.Test(expected = NullPointerException.class)
+  /*  @Apps.AlphaVersions.Test(expected = NullPointerException.class)
     public void testDel_0()
     {
         int[] zz = {};
@@ -300,7 +304,7 @@ public class ExListTestNg
         //======================================
         // addStart
         //======================================
-   /* @Apps.Test
+   /* @Apps.AlphaVersions.Test
     public void testAddStart_0()
     {
         int[] zz = {};

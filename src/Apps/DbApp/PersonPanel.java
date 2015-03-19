@@ -38,7 +38,7 @@ public class PersonPanel extends JPanel
         btnCanc = new JButton("Clear");
         btnAdd = new JButton("Add");
         btnUpdate = new JButton("Update");
-        btnDelete = new JButton("Delete");
+        btnDelete = new JButton("Apps/AlphaVersions/Delete");
         lbId = new JLabel("Id");
         lbFname = new JLabel("Fname");
         lbLname = new JLabel("Lname");

@@ -9,7 +9,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import static com.thoughtworks.selenium.SeleneseTestCase.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class ResultTest
 {

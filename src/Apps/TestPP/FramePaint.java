@@ -6,7 +6,7 @@ package Apps.TestPP;
 
  public class FramePaint extends JFrame {
  public FramePaint() {
- setTitle("Apps.Test PersonDB");
+ setTitle("Apps.AlphaVersions.Test PersonDB");
  setDefaultCloseOperation(EXIT_ON_CLOSE);
  setBounds(100, 100, 800, 600);
 

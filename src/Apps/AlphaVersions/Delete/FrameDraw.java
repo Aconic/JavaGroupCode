@@ -1,4 +1,4 @@
-package Delete;
+package Apps.AlphaVersions.Delete;
 import javax.swing.*;
 
 public class FrameDraw extends JFrame

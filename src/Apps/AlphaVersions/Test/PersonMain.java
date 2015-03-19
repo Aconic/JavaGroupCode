@@ -1,4 +1,4 @@
-package Apps.Test;
+package Apps.AlphaVersions.Test;
 
 import java.util.Arrays;
 
