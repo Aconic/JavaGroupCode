@@ -1,4 +1,4 @@
-package Apps.AlphaVersions.BallsAlpha;
+package com.aconic.apps.AlphaVersions.BallsAlpha;
 
 import java.io.FileNotFoundException;
 
