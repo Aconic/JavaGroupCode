@@ -1,4 +1,4 @@
-package com.aconic.lessons.Lesson1;
+package com.aconic.lessons.Lesson01;
 
 /**
  * Created with IntelliJ IDEA.
