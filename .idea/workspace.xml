@@ -1,7 +1,595 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6811931-4bb7-4136-93b9-022e8fb3bbb3" name="Default" comment="" />
+    <list default="true" id="f6811931-4bb7-4136-93b9-022e8fb3bbb3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/AList0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/AList0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/AList0Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/AList1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/AList1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/AList1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/AList2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/AList2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/AListIterExtern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/AListIterIntern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/AListMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/AjaxFuncs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/AppFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/AppFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/AppMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/AppPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BallsBeta/Ball.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson32/BsMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTreePaint/BsTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson32/BsTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/BtnPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ButtonJoinTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ButtonTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Calc1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Calc1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Calc2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/CalcApp/CalcFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/CalcApp/CalcFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/CalcApp/CalcFuncTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/CalcApp/CalcMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/CalcApp/CalcPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson45a/ChatClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/CheckDataZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/ClientCmd.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientCmd.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/ClientListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson45a/ClientListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientListenerZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/ColorPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/ColorPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson4/CombinationLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tables/Commands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/BallsAlpha/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Balls/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BallsBeta/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/Data.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/DataSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/DataSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/DbPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTree/ETreeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTree/ETreeListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/ExList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/ExList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/ExList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/ExListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/ExListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/ExListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/ExListTestNg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/FMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/FSets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/FigureCircle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/FigurePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/FigurePen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/FigureRect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/FigureRectRounded.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/FigureSelect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson19/FileBrowser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson19/FileDir.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/FileEditFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/FileFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/FileFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/FileFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tester/FileFunc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson19/FileInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/XMLJSONStart/FileJson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/XMLJSONStart/FileXml.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/Frame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/Frame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/FrameChat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson45a/FrameChat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/FrameDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TestPP/FramePaint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/BallsAlpha/FrameRoot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Balls/FrameRoot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BallsBeta/FrameRoot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/FrameRoot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/FrameVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/FrameZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/FrameZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson8/Func.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson1/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ITestCalc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/LList1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/LList1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/LList2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/LListIterIntern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/LListMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TestPP/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/XMLJSONStart/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson30/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/MainAjax.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/BallsAlpha/MainBalls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Balls/MainBalls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BallsBeta/MainBalls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson45a/MainChat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson33/MainConvertXmlJson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/MainDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/MainDrawBeta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/MainServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/MainVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/MainVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson38/MainVisitorPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/MainZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/MainZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/MenuCommands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/MenuContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/MenuTop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/Menus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/MyIteratorMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TestPP/MyMenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/MyTableModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tables/MyTableModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson22/MyTableModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/ObservedObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson8/OddFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson8/OddMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson8/OddPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tester/PButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/PColor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/PCommands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tester/PFigs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tester/PFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tester/PMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tester/PPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/PWidth.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/PaintPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/PaintPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/BallsAlpha/PanelBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Balls/PanelBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BallsBeta/PanelBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/PanelButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/PanelButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/PanelButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/PanelChat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson45a/PanelChat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/PanelCmd.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelCmd.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/PanelContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/BallsAlpha/PanelDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Delete/PanelDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Balls/PanelDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BallsBeta/PanelDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/PanelDraw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/PanelFigs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/PanelFigs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/PanelFigures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TestPP/PanelPaint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/CanvasVectorAlfa/PanelVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/PanelVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/PanelXO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Test/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tables/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/XMLJSONStart/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson16/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson18/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson22/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson30/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson33/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/PersonByAge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/PersonByFName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/PersonById.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/PersonByLName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/PersonFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/PersonFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/PersonFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/PersonFunctions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/PersonFunctions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/PersonFunctions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Test/PersonMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/PersonMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/PersonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/PersonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/PersonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson18/PersonSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RBotCentre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RBotLeft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RBotRight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RMidLeft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RMidRight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RTopCentre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RTopLeft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/RTopRight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson18/Recursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson18/RecursionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ResultTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/ServerListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/ServerMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ServerMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/ServerZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ServerZX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/ServerZXListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ServerZXListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/SizeMoveListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson18/Sort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson19/StatusBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tables/TableFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson22/TableFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tables/TableMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson22/TableMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/TablePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Tables/TablePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson22/TablePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/Test/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson1/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson10/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson11/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson18/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson4/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson5/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson6/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson7/Task1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson5/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson6/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson7/Task1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson7/Task1a.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson1/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson5/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson6/Task2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson6/Task2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson7/Task3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson7/Task3Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Task4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Task5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/TestParamJUnit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/TestParamNG.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/TestSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/TestTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/AlphaVersions/BallsAlpha/ThreadBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Balls/ThreadBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/Toolbar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/Toolbar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson19/TreeExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/TreeExtern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTreePaint/TreeFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TreeDirProj/TreeFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/TreeIntern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTree/TreeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/TreeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson38/TreeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTree/TreeMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTreePaint/TreeMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TreeDirProj/TreeMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/BiTreePaint/TreePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/TreeDirProj/TreePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorAlfa/VectorFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson38/Visitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/VisualTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Canvas/WidthPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasClassEdition/WidthPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson16/mainPersonDB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson16/mainPersonDB2.java" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\AJAX\AjaxFuncs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\AJAX\MainAjax.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\AJAX\PClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\AJAX\PFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\BallsAlpha\Data.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\BallsAlpha\FrameRoot.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\BallsAlpha\MainBalls.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\BallsAlpha\PanelBall.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\BallsAlpha\PanelDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\BallsAlpha\ThreadBall.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\Data.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\FileFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\FrameVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\MainVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\PanelButton.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\PanelFigs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\CanvasVectorAlfa\PanelVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\FMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\FSets.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\FrameDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\MainDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\PColor.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\PCommands.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\PWidth.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Delete\PanelDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Test\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Test\PersonMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\AlphaVersions\Test\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BallsBeta\Ball.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BallsBeta\Data.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BallsBeta\FrameRoot.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BallsBeta\MainBalls.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BallsBeta\PanelBall.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BallsBeta\PanelDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Balls\Data.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Balls\FrameRoot.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Balls\MainBalls.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Balls\PanelBall.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Balls\PanelDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Balls\ThreadBall.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTreePaint\BsTree.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTreePaint\TreeFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTreePaint\TreeMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTreePaint\TreePanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTree\ETreeList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTree\ETreeListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTree\TreeList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\BiTree\TreeMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\ColorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\Command.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\DataSet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\Frame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\Menus.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\PaintPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\Toolbar.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasClassEdition\WidthPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\Data.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\FileFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\MainVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\PanelButton.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\PanelFigs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\PanelVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorAlfa\VectorFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\Data.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\FileEditFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\FileFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\FrameRoot.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\MainDrawBeta.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\MenuCommands.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\ObservedObject.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\PanelButton.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\PanelDraw.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\PanelFigures.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RBotCentre.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RBotLeft.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RBotRight.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RContainer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RMidLeft.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RMidRight.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RTopCentre.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RTopLeft.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\RTopRight.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\CanvasVectorBeta\SizeMoveListener.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\ColorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\Command.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\DataSet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\FigureCircle.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\FigurePanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\FigurePen.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\FigureRect.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\FigureRectRounded.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\FigureSelect.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\Frame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\MenuContext.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\MenuTop.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\PaintPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\Toolbar.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Canvas\WidthPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\ChatSwing\ClientListener.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\ChatSwing\FrameChat.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\ChatSwing\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\ChatSwing\MainServer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\ChatSwing\PanelChat.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\ChatSwing\ServerListener.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\AppFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\BtnPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\MyTableModel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\PersonFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\PersonFunctions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\PersonPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\TablePanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\ButtonJoinTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\ButtonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\ITestCalc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\ResultTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\TestParamJUnit.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\TestParamNG.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\TestSuite.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\SeleniumTestCalc\VisualTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tables\Commands.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tables\MyTableModel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tables\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tables\TableFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tables\TableMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tables\TablePanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TestPP\FramePaint.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TestPP\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TestPP\MyMenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TestPP\PanelPaint.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tester\FileFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tester\PButton.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tester\PFigs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tester\PFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tester\PMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\Tester\PPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TreeDirProj\TreeFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TreeDirProj\TreeMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\TreeDirProj\TreePanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\XMLJSONStart\FileJson.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\XMLJSONStart\FileXml.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\XMLJSONStart\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\XMLJSONStart\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson10\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson11\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\AList0.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\AList0Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\AList1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\AList1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\AList2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\AListMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\ExList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson12\ExListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson16\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson16\mainPersonDB.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson16\mainPersonDB2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\AList0.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\AList2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\ExList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\ExListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\ExListTestNg.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\LList1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\LList2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson17\LListMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson18\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson18\PersonSort.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson18\Recursion.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson18\RecursionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson18\Sort.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson18\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson19\FileBrowser.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson19\FileDir.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson19\FileInput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson19\StatusBar.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson19\TreeExample.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson1\HelloWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson1\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson1\Task2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\DbPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\PersonFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\PersonFunctions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\PersonMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\PersonPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\AppFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\AppMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\AppPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\PersonFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\PersonFunctions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\PersonPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\TestTable.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson22\MyTableModel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson22\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson22\TableFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson22\TableMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson22\TablePanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Calc1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Calc1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Calc2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\CalcApp\CalcFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\CalcApp\CalcFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\CalcApp\CalcFuncTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\CalcApp\CalcMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\CalcApp\CalcPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Task2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Task4.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson2\Task5.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson30\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson30\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson32\BsMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson32\BsTree.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson33\MainConvertXmlJson.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson33\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson35\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson35\Person.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson35\PersonByAge.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson35\PersonByFName.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson35\PersonById.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson35\PersonByLName.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\AList1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\AListIterExtern.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\AListIterIntern.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\ExList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\ExListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\LList1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\LListIterIntern.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\MyIteratorMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\TreeExtern.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\TreeIntern.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson36\TreeList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson38\MainVisitorPattern.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson38\TreeList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson38\Visitor.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson45a\ChatClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson45a\ClientListener.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson45a\FrameChat.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson45a\MainChat.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson45a\PanelChat.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\CheckDataZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\ClientCmd.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\ClientListenerZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\ClientZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\FrameZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\MainZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\PanelCmd.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\PanelZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\ServerMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\ServerZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson46\ZeroXClassWork\ServerZXListener.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\ClientCmd.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\FrameZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\MainZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\PanelCmd.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\PanelContent.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\PanelXO.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\ServerMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\ServerZX.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson47\ZeroXClassWork\ServerZXListener.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson4\CombinationLock.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson4\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson5\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson5\Task1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson5\Task2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson6\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson6\Task1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson6\Task2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson6\Task2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson7\Task1.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson7\Task1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson7\Task1a.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson7\Task3.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson7\Task3Test.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson8\Func.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson8\OddFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson8\OddMain.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson8\OddPanel.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/out/production/Servlets/appcalc/CalcServlet.class" afterPath="$PROJECT_DIR$/Servlets/out/production/Servlets/appcalc/CalcServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/src/appcalc/CalcServlet.java" afterPath="$PROJECT_DIR$/Servlets/src/appcalc/CalcServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\images\12-free-psd-buttons-for-websites.jpg" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/images/12-free-psd-buttons-for-websites.jpg" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\images\addicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/images/addicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\images\delicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/images/delicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\images\editicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/images/editicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Apps\DbApp\images\icon.jpg" afterPath="$PROJECT_DIR$/src/com/aconic/apps/DbApp/images/icon.jpg" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\images\12-free-psd-buttons-for-websites.jpg" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/images/12-free-psd-buttons-for-websites.jpg" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\images\addicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/images/addicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\images\delicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/images/delicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\images\editicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/images/editicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson20\images\icon.jpg" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson20/images/icon.jpg" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\images\12-free-psd-buttons-for-websites.jpg" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/images/12-free-psd-buttons-for-websites.jpg" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\images\addicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/images/addicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\images\delicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/images/delicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\images\editicon.png" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/images/editicon.png" />
+      <change type="MOVED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\Lesson21\images\icon.jpg" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/Lesson21/images/icon.jpg" />
+    </list>
     <ignored path="JavaGroupCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,53 +610,7 @@
     <favorites_list name="JavaGroupCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MainAjax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientListenerZX.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientListenerZX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientZX.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientZX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-              <folding>
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PanelZX.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/PanelZX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6086956">
-              <caret line="50" column="51" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,6 +618,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -91,6 +636,19 @@
         <option value="$PROJECT_DIR$/src/web/Servlet.java" />
         <option value="$PROJECT_DIR$/src/Lesson51/Servlet.java" />
         <option value="$PROJECT_DIR$/Servlets/src/Lesson51/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/Lesson38/TreeList.java" />
+        <option value="$PROJECT_DIR$/src/Apps/TreeDirProj/TreePanel.java" />
+        <option value="$PROJECT_DIR$/src/Lesson19/FileDir.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/PanelFigures.java" />
+        <option value="$PROJECT_DIR$/src/Apps/CanvasVectorBeta/FileFunc.java" />
+        <option value="$PROJECT_DIR$/src/Lesson17/LList2.java" />
+        <option value="$PROJECT_DIR$/toJSONDraw.json" />
+        <option value="$PROJECT_DIR$/src/Lesson47/ZeroXClassWork/FrameZX.java" />
+        <option value="$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/MainZX.java" />
+        <option value="$PROJECT_DIR$/src/com/aconic/apps/ZeroXClassWork/PanelXO.java" />
+        <option value="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelXO.java" />
+        <option value="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelX.java" />
+        <option value="$PROJECT_DIR$/src/XXX/Main.java" />
       </list>
     </option>
   </component>
@@ -116,12 +674,12 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="774" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -144,7 +702,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,28 +733,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaGroupCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AJAX" />
+              <option name="myItemId" value="aconic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +751,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -219,15 +763,20 @@
     <property name="SearchEverywhereHistoryKey" value=" Web Application Support&#9;null&#9;null&#10; Web Application Support a&#9;null&#9;null&#10;tomcat&#9;null&#9;null" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.MyTom">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\src\com\aconic\lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Main">
     <configuration default="false" name="MainAjax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="AJAX.*" />
+          <option name="PATTERN" value="com.aconic.lessons.AJAX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="AJAX.MainAjax" />
+      <option name="MAIN_CLASS_NAME" value="com.aconic.lessons.AJAX.MainAjax" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -238,6 +787,32 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="JavaGroupCode" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="XXX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaGroupCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="XXX" />
+      <option name="MAIN_CLASS_NAME" value="XXX.Main" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -566,13 +1141,15 @@
       </ConfigurationWrapper>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.MyTom" />
       <item index="1" class="java.lang.String" itemvalue="Application.MainAjax" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Main" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainAjax" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainAjax" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -599,40 +1176,48 @@
       <workItem from="1431269217656" duration="2004000" />
       <workItem from="1431326379562" duration="182000" />
       <workItem from="1431606540117" duration="319000" />
+      <workItem from="1431713686781" duration="132000" />
+      <workItem from="1431713871843" duration="92000" />
+      <workItem from="1431871121640" duration="19000" />
+      <workItem from="1432141451265" duration="168000" />
+      <workItem from="1432141784562" duration="2740000" />
+      <workItem from="1432145787078" duration="632000" />
+      <workItem from="1432146616406" duration="1014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16967000" />
+    <option name="totallyTimeSpent" value="21764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1288" height="774" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2793177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -657,240 +1242,98 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/MainAjax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientListenerZX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientZX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding>
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/PanelZX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientListenerZX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientZX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding>
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/PanelZX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="107" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="107" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/MainAjax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="62" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson46/ZeroXClassWork/ClientZX.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientZX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson12/ExListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/ExListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTestNg.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/ExListTestNg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/SeleniumTestCalc/ResultTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ResultTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/SeleniumTestCalc/ResultTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ResultTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson17/ExListTestNg.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/ExListTestNg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson12/ExListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson12/ExListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson46/ZeroXClassWork/ClientZX.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientZX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35473517">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
@@ -904,64 +1347,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/XMLJSONStart/FileJson.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/XMLJSONStart/FileJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1364366">
           <caret line="5" column="68" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ChatSwing/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29095355">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/MainAjax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ChatSwing/PanelChat.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/PanelChat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.5553772">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ChatSwing/ClientListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ChatSwing/ClientListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10914928">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/Chat/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/Chat/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10914928">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AJAX/PClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="29" selection-start-line="137" selection-start-column="29" selection-end-line="137" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ServerZXListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ZeroXVersionA/ServerZXListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.63723916">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -975,32 +1403,211 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientListenerZX.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ZeroXVersionA/ClientListenerZX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.74281394">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/ClientZX.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ZeroXVersionA/ClientZX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/ZeroXVersionA/PanelZX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="29" selection-start-line="137" selection-start-column="29" selection-end-line="137" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/AjaxFuncs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12859304">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XXX/X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0544">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/AJAX/MainAjax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4624">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson35/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson30/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/AListIterExtern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/AListIterIntern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/TreeExtern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3536">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/BiTree/TreeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson36/TreeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson38/TreeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="183" column="25" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson19/FileDir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4016">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/TreeDirProj/TreePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="22" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson2/Calc1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.048">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/FileFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/PanelFigures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson17/LList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientListenerZX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/Lesson47/ZeroXClassWork/MainZX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/MainZX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20782396">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.24694377">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/ClientCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.041564792">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Apps/ZeroXVersionA/PanelZX.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6086956">
-          <caret line="50" column="51" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        <state vertical-scroll-proportion="-0.63658535">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XXX/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37317073">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,6 +1668,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
