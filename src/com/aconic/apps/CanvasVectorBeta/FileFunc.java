@@ -57,6 +57,7 @@ public class FileFunc
         Writer w = new FileWriter(file);
         w.write(res);
         w.flush();
+        w.close();
     }
 
 
@@ -76,6 +77,7 @@ public class FileFunc
                 PanelFigures figure = new PanelFigures();
                 String[] smX = pfAr[i].split(":");
             }
+            br.close();
         }
         return list;
     }

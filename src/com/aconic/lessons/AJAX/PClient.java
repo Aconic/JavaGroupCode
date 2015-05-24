@@ -26,7 +26,7 @@ public class PClient extends JPanel implements AjaxFuncs
         textFieldX = new JTextField();
         textFieldY = new JTextField();
         String [] ss = {"+","-","*","/"};
-        comboFieldS = new JComboBox<String>(ss);
+        comboFieldS = new JComboBox<>(ss);
         textArea = new JTextArea();
 
         JButton btnSend = new JButton("Calc");
@@ -90,7 +90,7 @@ public class PClient extends JPanel implements AjaxFuncs
         String data="";
         if (sign.equals("+"))
         {
-            sign = "plus";
+            sign = "p";
         }
         try
         {
@@ -117,6 +117,7 @@ public class PClient extends JPanel implements AjaxFuncs
             conn.setRequestProperty("Content-Length", String.valueOf(params.length()));
 
             DataOutputStream out = new DataOutputStream(conn.getOutputStream());
+            System.out.println(params);
             out.writeBytes(params);
             out.flush();
             out.close();
@@ -130,6 +131,7 @@ public class PClient extends JPanel implements AjaxFuncs
                 System.out.println(response);
                 textArea.setText(String.valueOf(response));
             }
+            in.close();
         } catch (IOException e)
         {
             e.printStackTrace();

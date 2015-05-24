@@ -9,7 +9,7 @@ public class PanelContent extends JPanel
 	{
 		setLayout(null);
 		PanelCmd pcmd = new PanelCmd(cmd);
-		PanelXO pxo = new PanelXO(cmd);
+		PanelX pxo = new PanelX(cmd);
 		
 		pcmd.setBounds(0, 0, 150, 320);
 		pxo.setBounds(150, 12, 320, 300);

@@ -86,7 +86,7 @@ public class MenuCommands extends JMenuBar
                         }
 
                         String extension = fileChooser.getFileFilter().getDescription();
-                        String ext = "";
+                        String ext;
                         System.out.println(extension);
                         if (extension.equals("*.XML"))
                         {

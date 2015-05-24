@@ -8,7 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.io.File;
 
-import static com.thoughtworks.selenium.SeleneseTestCase.assertEquals;
+import static com.thoughtworks.selenium.SeleneseTestNgHelper.assertEquals;
+
 
 public class ButtonTest
 {

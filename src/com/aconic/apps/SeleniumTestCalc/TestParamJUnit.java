@@ -12,7 +12,8 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.List;
 
-import static com.thoughtworks.selenium.SeleneseTestCase.assertEquals;
+import static com.thoughtworks.selenium.SeleneseTestNgHelper.assertEquals;
+
 
 @RunWith(value = Parameterized.class)
 public class TestParamJUnit
