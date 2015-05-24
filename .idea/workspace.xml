@@ -1,268 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6811931-4bb7-4136-93b9-022e8fb3bbb3" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task2Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task3Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task4Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task5Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task6Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task8.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\Task9.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Arrays\TaskSortGolovach.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcFunc.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcFuncTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$10.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$11.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$12.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$13.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$14.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$15.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$16.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$8.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel$9.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\CalcApp\CalcPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task1a.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task1b.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task2Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task3Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task4Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Conditions\Task5Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Functions\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Functions\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Functions\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Functions\Task2Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Functions\Task3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Functions\Task3Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task2Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task4Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task5Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task6Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task7a.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Loops\Task7b.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Random\RandomMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\Random\TaskAll.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\TStrings\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\TStrings\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\TStrings\Task3a.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\HomeWork\out\production\HomeWork\TStrings\Task3h.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\!JavaCode\Home.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$ColorCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$ColorCommandBlue.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$ColorCommandGreen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$ColorCommandRed.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$LineWCommand_1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$LineWCommand_5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command$LineWCommand_7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Command.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\Frame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Canvas\PaintPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\FMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\FSets.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\FrameDraw.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\MainDraw.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PColor.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$ColorCmd.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$ColorCmdBlue.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$ColorCmdGreen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$ColorCmdRed.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$WidthCmd_1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$WidthCmd_10.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$WidthCmd_3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands$WidthCmd_7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PCommands.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PWidth.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Delete\PanelDraw.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson10\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson11\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\AList0.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\AList0Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\AList1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\AList2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\AListMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\ExList.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson12\ExListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson16\Person.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson16\mainPersonDB.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson16\mainPersonDB2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson17\ExList.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson17\ExListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson17\LList1$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson17\LList1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson17\LListMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson18\Recursion.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson18\RecursionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson18\Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson18\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\FileBrowser$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\FileBrowser$CreateChildNodes.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\FileBrowser$FileNode.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\FileBrowser.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\FileDir.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\FileInput.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\StatusBar$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\StatusBar$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\StatusBar$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\StatusBar.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\TreeExample$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\TreeExample$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson19\TreeExample.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson1\HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson1\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson1\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\Person.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonFunctions.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonPanel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonPanel$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonPanel$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonPanel$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonPanel$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\PersonPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\images\12-free-psd-buttons-for-websites.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\images\addicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\images\delicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\images\editicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson20\images\icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel$7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\AppPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\Person.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonFunctions.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonPanel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonPanel$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonPanel$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonPanel$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonPanel$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\PersonPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\TestTable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\images\12-free-psd-buttons-for-websites.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\images\addicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\images\delicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\images\editicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson21\images\icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson22\MyTableModel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson22\Person.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson22\TableFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson22\TableMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson22\TablePanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Calc1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Calc1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Calc2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcFunc.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcFuncTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$10.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$11.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$12.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$13.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$14.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$15.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$16.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$8.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel$9.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\CalcApp\CalcPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Task4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson2\Task5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson4\CombinationLock.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson4\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson5\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson5\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson5\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson6\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson6\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson6\Task2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson6\Task2Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson7\Task1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson7\Task1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson7\Task1a.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson7\Task3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson7\Task3Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\Func.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddFrame.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddMain.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddPanel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddPanel$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddPanel$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddPanel$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddPanel$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\!Code_Rudin\!JavaCode\JavaGroupCode\out\production\Lesson_code\Lesson8\OddPanel.class" afterPath="" />
-    </list>
-    <list id="f3c833ac-8402-4c09-a430-55b1e34f0a9d" name="Rejected commit: Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Calculator/FrameChat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Calculator/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/aconic/apps/Calculator/PanelCalc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ButtonJoinTest.java" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ButtonJoinTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ButtonTest.java" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/ButtonTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/FileFunc.java" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/FileFunc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaGroupCode.iml" afterPath="$PROJECT_DIR$/src/JavaGroupCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/MenuCommands.java" afterPath="$PROJECT_DIR$/src/com/aconic/apps/CanvasVectorBeta/MenuCommands.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelContent.java" afterPath="$PROJECT_DIR$/src/com/aconic/lessons/ZeroXClassWork/PanelContent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/Servlets.iml" afterPath="$PROJECT_DIR$/Servlets/Servlets.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/TestParamJUnit.java" afterPath="$PROJECT_DIR$/src/com/aconic/apps/SeleniumTestCalc/TestParamJUnit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Servlets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Servlets/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f6811931-4bb7-4136-93b9-022e8fb3bbb3" name="Default" comment="" />
+    <list id="f3c833ac-8402-4c09-a430-55b1e34f0a9d" name="Rejected commit: Default" comment="" />
     <ignored path="JavaGroupCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/src/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/aconic/lessons/AJAX/PClient.java" ignored="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -572,7 +318,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Servlets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Group" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22484599" />
@@ -1078,12 +824,12 @@
       <workItem from="1432411380485" duration="74000" />
       <workItem from="1432411919685" duration="5172000" />
       <workItem from="1432451993703" duration="3737000" />
-      <workItem from="1432465875593" duration="2965000" />
+      <workItem from="1432465875593" duration="3446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50163000" />
+    <option name="totallyTimeSpent" value="50644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
